@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spa & Bienestar | Los Caneyes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header class="header scrolled" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><i class="fas fa-leaf"></i></div>
+                <span class="logo-text">Los Caneyes</span>
+            </a>
+            <nav class="nav" id="nav">
+                <a href="habitaciones.html" class="nav-link">Habitaciones</a>
+                <a href="index.html#experiencias" class="nav-link">Experiencias</a>
+                <a href="index.html#amenidades" class="nav-link">Amenidades</a>
+                <a href="index.html#ubicacion" class="nav-link">Ubicacion</a>
+                <a href="index.html#ofertas" class="nav-link">Ofertas</a>
+                <a href="contacto.html" class="nav-link">Contacto</a>
+            </nav>
+            <div class="header-actions">
+                <div class="lang-selector">
+                    <i class="fas fa-globe"></i>
+                    <span>ES</span>
+                    <i class="fas fa-chevron-down" style="font-size:10px;"></i>
+                </div>
+                <a href="#" class="btn btn-primary">Reservar Tratamiento</a>
+                <div class="mobile-toggle" id="mobileToggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero" style="height: 50vh; min-height: 400px;">
+        <div class="hero-bg" style="background: linear-gradient(135deg, #0B3D4C 0%, #1a5f6e 100%);"></div>
+        <div class="hero-bg" style="background: url('https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1920&q=80') center/cover; opacity: 0.3; position: absolute; inset: 0;"></div>
+        <div class="hero-bg" style="background: linear-gradient(to bottom, rgba(11,61,76,0.4) 0%, rgba(11,61,76,0.8) 100%); position: absolute; inset: 0;"></div>
+        <div class="hero-content" style="padding-top: 80px;">
+            <p class="hero-subtitle">Renovacion y Paz</p>
+            <h1 class="hero-title" style="font-size: clamp(36px, 6vw, 64px);">Spa <span>Caney</span></h1>
+            <p class="hero-desc">Un santuario de bienestar donde cuerpo, mente y espiritu encuentran su equilibrio perfecto.</p>
+        </div>
+    </section>
+
+    <section class="section welcome">
+        <div class="container">
+            <div class="welcome-grid reveal">
+                <div class="welcome-text">
+                    <span class="section-label">Bienestar Holistico</span>
+                    <h2 class="section-title">Un Refugio para el Alma</h2>
+                    <p>En el Spa Caney, cada tratamiento es un viaje sensorial diseñado para restaurar su energia vital. Nuestros terapeutas combinan tecnicas ancestrales cubanas con terapias modernas de bienestar, utilizando ingredientes naturales de la isla: cafe organico, miel de palma, aloe vera y aceites esenciales tropicales.</p>
+                    <p>El ambiente del spa, con sus fuentes murmurantes, iluminacion tenue y aromas de hierbas medicinales, lo transportara a un estado de profunda relajacion desde el primer momento.</p>
+                </div>
+                <div class="welcome-image" style="height: 500px;">
+                    <img src="https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=800&q=80" alt="Spa Caney">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background: var(--color-bg-warm);">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Nuestros Tratamientos</span>
+                <h2 class="section-title">Experiencias de Spa</h2>
+                <p class="section-desc">Seleccione entre nuestra variedad de tratamientos diseñados para rejuvenecer y revitalizar.</p>
+            </div>
+            <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <div style="height: 250px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&q=80" alt="Masaje" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 30px;">
+                        <span style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; color: var(--color-accent);">60 min</span>
+                        <h3 style="font-family: var(--font-serif); font-size: 24px; color: var(--color-primary); margin: 8px 0 12px;">Masaje Caney</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 20px;">Masaje de cuerpo completo con aceites esenciales de cafe y vainilla, inspirado en las tradiciones curativas cubanas.</p>
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-family: var(--font-serif); font-size: 24px; color: var(--color-accent); font-weight: 600;">$85</span>
+                            <a href="#" class="btn btn-primary" style="padding: 10px 20px; font-size: 12px;">Reservar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <div style="height: 250px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=600&q=80" alt="Facial" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 30px;">
+                        <span style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; color: var(--color-accent);">90 min</span>
+                        <h3 style="font-family: var(--font-serif); font-size: 24px; color: var(--color-primary); margin: 8px 0 12px;">Facial Tropical</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 20px;">Tratamiento facial con extractos de papaya, platano y miel de palma para una piel radiante y rejuvenecida.</p>
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-family: var(--font-serif); font-size: 24px; color: var(--color-accent); font-weight: 600;">$120</span>
+                            <a href="#" class="btn btn-primary" style="padding: 10px 20px; font-size: 12px;">Reservar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <div style="height: 250px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=600&q=80" alt="Envoltura" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 30px;">
+                        <span style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; color: var(--color-accent);">75 min</span>
+                        <h3 style="font-family: var(--font-serif); font-size: 24px; color: var(--color-primary); margin: 8px 0 12px;">Envoltura de Algas</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 20px;">Detoxificacion profunda con algas marinas del Caribe, seguida de un masaje relajante con aceite de coco.</p>
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-family: var(--font-serif); font-size: 24px; color: var(--color-accent); font-weight: 600;">$95</span>
+                            <a href="#" class="btn btn-primary" style="padding: 10px 20px; font-size: 12px;">Reservar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <div style="height: 250px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1591343395082-e120087004b4?w=600&q=80" alt="Parejas" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 30px;">
+                        <span style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; color: var(--color-accent);">120 min</span>
+                        <h3 style="font-family: var(--font-serif); font-size: 24px; color: var(--color-primary); margin: 8px 0 12px;">Ritual para Parejas</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 20px;">Experiencia compartida con bano de flores tropicales, masaje sincronizado y champagne de bienvenida.</p>
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-family: var(--font-serif); font-size: 24px; color: var(--color-accent); font-weight: 600;">$220</span>
+                            <a href="#" class="btn btn-primary" style="padding: 10px 20px; font-size: 12px;">Reservar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <div style="height: 250px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80" alt="Manos" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 30px;">
+                        <span style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; color: var(--color-accent);">45 min</span>
+                        <h3 style="font-family: var(--font-serif); font-size: 24px; color: var(--color-primary); margin: 8px 0 12px;">Manos y Pies</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 20px;">Tratamiento completo con exfoliacion de azucar moreno, mascarilla de frutas y esmalte a eleccion.</p>
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-family: var(--font-serif); font-size: 24px; color: var(--color-accent); font-weight: 600;">$55</span>
+                            <a href="#" class="btn btn-primary" style="padding: 10px 20px; font-size: 12px;">Reservar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <div style="height: 250px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=600&q=80" alt="Yoga" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 30px;">
+                        <span style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; color: var(--color-accent);">60 min</span>
+                        <h3 style="font-family: var(--font-serif); font-size: 24px; color: var(--color-primary); margin: 8px 0 12px;">Yoga al Amanecer</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 20px;">Sesion de yoga matutino en nuestra terraza con vista al mar, guiada por instructores certificados.</p>
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-family: var(--font-serif); font-size: 24px; color: var(--color-accent); font-weight: 600;">$35</span>
+                            <a href="#" class="btn btn-primary" style="padding: 10px 20px; font-size: 12px;">Reservar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section amenities">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Instalaciones</span>
+                <h2 class="section-title">Instalaciones del Spa</h2>
+            </div>
+            <div class="amenities-grid" style="grid-template-columns: repeat(4, 1fr);">
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-hot-tub"></i></div>
+                    <h3 class="amenity-title">Jacuzzi</h3>
+                    <p class="amenity-desc">Hidromasaje con vistas al jardin tropical y aromaterapia.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-snowflake"></i></div>
+                    <h3 class="amenity-title">Sala de Hielo</h3>
+                    <p class="amenity-desc">Terapia de contraste para revitalizar la circulacion.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-om"></i></div>
+                    <h3 class="amenity-title">Sala de Meditacion</h3>
+                    <p class="amenity-desc">Espacio silencioso para practicas de mindfulness.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-leaf"></i></div>
+                    <h3 class="amenity-title">Jardin de Hierbas</h3>
+                    <p class="amenity-desc">Huerta organica donde cultivamos nuestros ingredientes.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Horarios</span>
+                <h2 class="section-title">Horario de Atencion</h2>
+            </div>
+            <div style="max-width: 800px; margin: 0 auto;" class="reveal">
+                <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; text-align: center;">
+                    <div style="padding: 40px; background: var(--color-bg-warm); border-radius: 8px;">
+                        <i class="fas fa-sun" style="font-size: 32px; color: var(--color-accent); margin-bottom: 16px;"></i>
+                        <h4 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 8px;">Manana</h4>
+                        <p style="font-size: 14px; color: var(--color-text-light);">8:00 AM - 12:00 PM</p>
+                        <p style="font-size: 13px; color: var(--color-text-light); margin-top: 8px;">Yoga, Masajes, Faciales</p>
+                    </div>
+                    <div style="padding: 40px; background: var(--color-bg-warm); border-radius: 8px;">
+                        <i class="fas fa-cloud-sun" style="font-size: 32px; color: var(--color-accent); margin-bottom: 16px;"></i>
+                        <h4 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 8px;">Tarde</h4>
+                        <p style="font-size: 14px; color: var(--color-text-light);">12:00 PM - 6:00 PM</p>
+                        <p style="font-size: 13px; color: var(--color-text-light); margin-top: 8px;">Tratamientos Corporales, Manos y Pies</p>
+                    </div>
+                    <div style="padding: 40px; background: var(--color-bg-warm); border-radius: 8px;">
+                        <i class="fas fa-moon" style="font-size: 32px; color: var(--color-accent); margin-bottom: 16px;"></i>
+                        <h4 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 8px;">Noche</h4>
+                        <p style="font-size: 14px; color: var(--color-text-light);">6:00 PM - 10:00 PM</p>
+                        <p style="font-size: 13px; color: var(--color-text-light); margin-top: 8px;">Rituales para Parejas, Masajes Nocturnos</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" id="contacto">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <span class="logo-text">Los Caneyes</span>
+                    <p>Un refugio boutique donde la elegancia colonial se encuentra con la serenidad tropical. Hospitalidad sin igual desde 1987.</p>
+                    <div class="footer-social">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-tripadvisor"></i></a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4>Explorar</h4>
+                    <ul class="footer-links">
+                        <li><a href="habitaciones.html">Habitaciones</a></li>
+                        <li><a href="restaurante.html">Restaurante</a></li>
+                        <li><a href="spa.html">Spa & Bienestar</a></li>
+                        <li><a href="index.html#experiencias">Experiencias</a></li>
+                        <li><a href="index.html#ofertas">Ofertas Especiales</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Informacion</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">Sobre Nosotros</a></li>
+                        <li><a href="#">Politica de Cancelacion</a></li>
+                        <li><a href="#">Terminos y Condiciones</a></li>
+                        <li><a href="#">Politica de Privacidad</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Contacto</h4>
+                    <ul class="footer-links">
+                        <li><a href="tel:+5371234567"><i class="fas fa-phone"></i> +53 7 123 4567</a></li>
+                        <li><a href="mailto:reservas@loscaneyes.com"><i class="fas fa-envelope"></i> reservas@loscaneyes.com</a></li>
+                        <li><a href="#"><i class="fas fa-map-marker-alt"></i> Avenida del Paraiso 123</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> Los Caneyes Resort & Spa. Todos los derechos reservados.</p>
+                <div class="footer-bottom-links">
+                    <a href="#">Politica de Cookies</a>
+                    <a href="#">Mapa del Sitio</a>
+                    <a href="#">Accesibilidad</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

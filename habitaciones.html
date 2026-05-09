@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habitaciones | Los Caneyes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header class="header scrolled" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><i class="fas fa-leaf"></i></div>
+                <span class="logo-text">Los Caneyes</span>
+            </a>
+            <nav class="nav" id="nav">
+                <a href="habitaciones.html" class="nav-link">Habitaciones</a>
+                <a href="index.html#experiencias" class="nav-link">Experiencias</a>
+                <a href="index.html#amenidades" class="nav-link">Amenidades</a>
+                <a href="index.html#ubicacion" class="nav-link">Ubicacion</a>
+                <a href="index.html#ofertas" class="nav-link">Ofertas</a>
+                <a href="contacto.html" class="nav-link">Contacto</a>
+            </nav>
+            <div class="header-actions">
+                <div class="lang-selector">
+                    <i class="fas fa-globe"></i>
+                    <span>ES</span>
+                    <i class="fas fa-chevron-down" style="font-size:10px;"></i>
+                </div>
+                <a href="#reservar" class="btn btn-primary">Reservar Ahora</a>
+                <div class="mobile-toggle" id="mobileToggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero" style="height: 50vh; min-height: 400px;">
+        <div class="hero-bg" style="background: linear-gradient(135deg, #0B3D4C 0%, #1a5f6e 100%);"></div>
+        <div class="hero-bg" style="background: url('https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1920&q=80') center/cover; opacity: 0.3; position: absolute; inset: 0;"></div>
+        <div class="hero-bg" style="background: linear-gradient(to bottom, rgba(11,61,76,0.4) 0%, rgba(11,61,76,0.8) 100%); position: absolute; inset: 0;"></div>
+        <div class="hero-content" style="padding-top: 80px;">
+            <p class="hero-subtitle">Descanso y Elegancia</p>
+            <h1 class="hero-title" style="font-size: clamp(36px, 6vw, 64px);">Nuestras <span>Habitaciones</span></h1>
+            <p class="hero-desc">Cada espacio ha sido diseñado para ofrecerle el máximo confort y una experiencia inolvidable.</p>
+        </div>
+    </section>
+
+    <section class="section" style="padding-top: 60px;">
+        <div class="container">
+            <div class="rooms-grid" style="grid-template-columns: 1fr; gap: 60px;">
+
+                <div class="room-detail reveal" style="display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center;">
+                    <div style="border-radius: 8px; overflow: hidden; height: 500px;">
+                        <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80" alt="Suite Colonial" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div>
+                        <span class="section-label">Premium</span>
+                        <h2 class="section-title" style="text-align: left;">Suite Colonial</h2>
+                        <p style="color: var(--color-text-light); line-height: 1.8; margin-bottom: 24px;">Sumérjase en la elegancia de la época colonial con toques contemporáneos. Techos altos, pisos de madera tropical y una terraza privada con vistas a los jardines exuberantes.</p>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 30px;">
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-ruler-combined" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">55 m²</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-user" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">2 Huéspedes</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-bed" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">Cama King</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-wifi" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">WiFi Premium</span>
+                            </div>
+                        </div>
+                        <div style="margin-bottom: 30px;">
+                            <h4 style="font-family: var(--font-serif); font-size: 20px; color: var(--color-primary); margin-bottom: 12px;">Amenidades Incluidas</h4>
+                            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 14px; color: var(--color-text-light);">
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Minibar surtido</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Cafetera Nespresso</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Smart TV 55"</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Baño de mármol</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Batas y pantuflas</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Caja fuerte digital</div>
+                            </div>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 24px;">
+                            <div style="font-family: var(--font-serif); font-size: 36px; color: var(--color-accent);">$189 <span style="font-size: 16px; font-family: var(--font-sans); color: var(--color-text-light);">/ noche</span></div>
+                            <a href="#" class="btn btn-primary">Reservar Ahora</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div style="border-top: 1px solid #eee; margin: 40px 0;"></div>
+
+                <div class="room-detail reveal" style="display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; direction: rtl;">
+                    <div style="border-radius: 8px; overflow: hidden; height: 500px; direction: ltr;">
+                        <img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80" alt="Suite Tropical" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="direction: ltr;">
+                        <span class="section-label">Deluxe</span>
+                        <h2 class="section-title" style="text-align: left;">Suite Tropical</h2>
+                        <p style="color: var(--color-text-light); line-height: 1.8; margin-bottom: 24px;">Un oasis privado con acceso directo a la piscina. Diseño abierto que fusiona el interior con la naturaleza tropical, creando una atmósfera de serenidad absoluta.</p>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 30px;">
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-ruler-combined" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">70 m²</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-user" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">3 Huéspedes</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-bed" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">Cama King + Sofá</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-water" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">Acceso Piscina</span>
+                            </div>
+                        </div>
+                        <div style="margin-bottom: 30px;">
+                            <h4 style="font-family: var(--font-serif); font-size: 20px; color: var(--color-primary); margin-bottom: 12px;">Amenidades Incluidas</h4>
+                            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 14px; color: var(--color-text-light);">
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Terraza privada</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Jacuzzi exterior</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Sistema de sonido Bose</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Bar privado</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Servicio de mayordomo</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Desayuno incluido</div>
+                            </div>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 24px;">
+                            <div style="font-family: var(--font-serif); font-size: 36px; color: var(--color-accent);">$249 <span style="font-size: 16px; font-family: var(--font-sans); color: var(--color-text-light);">/ noche</span></div>
+                            <a href="#" class="btn btn-primary">Reservar Ahora</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div style="border-top: 1px solid #eee; margin: 40px 0;"></div>
+
+                <div class="room-detail reveal" style="display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center;">
+                    <div style="border-radius: 8px; overflow: hidden; height: 500px;">
+                        <img src="https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80" alt="Villa Caney" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div>
+                        <span class="section-label">Exclusiva</span>
+                        <h2 class="section-title" style="text-align: left;">Villa Caney</h2>
+                        <p style="color: var(--color-text-light); line-height: 1.8; margin-bottom: 24px;">La experiencia definitiva de lujo. Villa independiente con piscina privada, vistas panorámicas al mar Caribe y servicio de mayordomo las 24 horas.</p>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 30px;">
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-ruler-combined" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">120 m²</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-user" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">4 Huéspedes</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-bed" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">2 Camas King</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--color-bg-warm); border-radius: 8px;">
+                                <i class="fas fa-umbrella-beach" style="color: var(--color-accent);"></i>
+                                <span style="font-size: 14px;">Vista al Mar</span>
+                            </div>
+                        </div>
+                        <div style="margin-bottom: 30px;">
+                            <h4 style="font-family: var(--font-serif); font-size: 20px; color: var(--color-primary); margin-bottom: 12px;">Amenidades Incluidas</h4>
+                            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 14px; color: var(--color-text-light);">
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Piscina privada</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Cocina gourmet</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Sala de cine privada</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Gimnasio privado</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Traslado aeropuerto</div>
+                                <div><i class="fas fa-check" style="color: var(--color-accent); margin-right: 8px;"></i>Spa en villa</div>
+                            </div>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 24px;">
+                            <div style="font-family: var(--font-serif); font-size: 36px; color: var(--color-accent);">$399 <span style="font-size: 16px; font-family: var(--font-sans); color: var(--color-text-light);">/ noche</span></div>
+                            <a href="#" class="btn btn-primary">Reservar Ahora</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background: var(--color-bg-warm);">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Comparar</span>
+                <h2 class="section-title">Comparacion de Habitaciones</h2>
+            </div>
+            <div style="overflow-x: auto;" class="reveal">
+                <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+                    <thead>
+                        <tr style="background: var(--color-primary); color: white;">
+                            <th style="padding: 20px; text-align: left; font-family: var(--font-serif); font-size: 18px; font-weight: 400;">Caracteristica</th>
+                            <th style="padding: 20px; text-align: center; font-family: var(--font-serif); font-size: 18px; font-weight: 400;">Suite Colonial</th>
+                            <th style="padding: 20px; text-align: center; font-family: var(--font-serif); font-size: 18px; font-weight: 400;">Suite Tropical</th>
+                            <th style="padding: 20px; text-align: center; font-family: var(--font-serif); font-size: 18px; font-weight: 400;">Villa Caney</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="border-bottom: 1px solid #eee;">
+                            <td style="padding: 16px 20px; font-size: 14px; color: var(--color-text-light);"><i class="fas fa-ruler-combined" style="color: var(--color-accent); margin-right: 8px;"></i>Metros cuadrados</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">55 m²</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">70 m²</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">120 m²</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #eee;">
+                            <td style="padding: 16px 20px; font-size: 14px; color: var(--color-text-light);"><i class="fas fa-user" style="color: var(--color-accent); margin-right: 8px;"></i>Capacidad maxima</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">2 Huéspedes</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">3 Huéspedes</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">4 Huéspedes</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #eee;">
+                            <td style="padding: 16px 20px; font-size: 14px; color: var(--color-text-light);"><i class="fas fa-bed" style="color: var(--color-accent); margin-right: 8px;"></i>Tipo de cama</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">King</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">King + Sofá</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">2 King</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #eee;">
+                            <td style="padding: 16px 20px; font-size: 14px; color: var(--color-text-light);"><i class="fas fa-water" style="color: var(--color-accent); margin-right: 8px;"></i>Vista</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">Jardín</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">Piscina</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;">Mar Panorámico</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #eee;">
+                            <td style="padding: 16px 20px; font-size: 14px; color: var(--color-text-light);"><i class="fas fa-concierge-bell" style="color: var(--color-accent); margin-right: 8px;"></i>Mayordomo</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;"><i class="fas fa-times" style="color: #ccc;"></i></td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;"><i class="fas fa-check" style="color: var(--color-accent);"></i></td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;"><i class="fas fa-check" style="color: var(--color-accent);"></i> 24h</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #eee;">
+                            <td style="padding: 16px 20px; font-size: 14px; color: var(--color-text-light);"><i class="fas fa-utensils" style="color: var(--color-accent); margin-right: 8px;"></i>Desayuno incluido</td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;"><i class="fas fa-times" style="color: #ccc;"></i></td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;"><i class="fas fa-check" style="color: var(--color-accent);"></i></td>
+                            <td style="padding: 16px; text-align: center; font-size: 14px;"><i class="fas fa-check" style="color: var(--color-accent);"></i> Gourmet</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 16px 20px; font-size: 14px; color: var(--color-text-light);"><i class="fas fa-tag" style="color: var(--color-accent); margin-right: 8px;"></i>Precio por noche</td>
+                            <td style="padding: 16px; text-align: center; font-size: 18px; font-family: var(--font-serif); color: var(--color-accent); font-weight: 600;">$189</td>
+                            <td style="padding: 16px; text-align: center; font-size: 18px; font-family: var(--font-serif); color: var(--color-accent); font-weight: 600;">$249</td>
+                            <td style="padding: 16px; text-align: center; font-size: 18px; font-family: var(--font-serif); color: var(--color-accent); font-weight: 600;">$399</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" id="contacto">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <span class="logo-text">Los Caneyes</span>
+                    <p>Un refugio boutique donde la elegancia colonial se encuentra con la serenidad tropical. Hospitalidad sin igual desde 1987.</p>
+                    <div class="footer-social">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-tripadvisor"></i></a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4>Explorar</h4>
+                    <ul class="footer-links">
+                        <li><a href="habitaciones.html">Habitaciones</a></li>
+                        <li><a href="index.html#amenidades">Restaurantes</a></li>
+                        <li><a href="index.html#amenidades">Spa & Bienestar</a></li>
+                        <li><a href="index.html#experiencias">Experiencias</a></li>
+                        <li><a href="index.html#ofertas">Ofertas Especiales</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Informacion</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">Sobre Nosotros</a></li>
+                        <li><a href="#">Politica de Cancelacion</a></li>
+                        <li><a href="#">Terminos y Condiciones</a></li>
+                        <li><a href="#">Politica de Privacidad</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Contacto</h4>
+                    <ul class="footer-links">
+                        <li><a href="tel:+5371234567"><i class="fas fa-phone"></i> +53 7 123 4567</a></li>
+                        <li><a href="mailto:reservas@loscaneyes.com"><i class="fas fa-envelope"></i> reservas@loscaneyes.com</a></li>
+                        <li><a href="#"><i class="fas fa-map-marker-alt"></i> Avenida del Paraiso 123</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> Los Caneyes Resort & Spa. Todos los derechos reservados.</p>
+                <div class="footer-bottom-links">
+                    <a href="#">Politica de Cookies</a>
+                    <a href="#">Mapa del Sitio</a>
+                    <a href="#">Accesibilidad</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="mobile-booking-bar">
+        <div class="mobile-booking-info">
+            <span style="font-size:12px;color:var(--color-text-light);">Desde</span>
+            <div class="mobile-booking-price">$189 <span>/ noche</span></div>
+        </div>
+        <a href="#" class="btn btn-primary">Reservar Ahora</a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

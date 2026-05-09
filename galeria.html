@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria Virtual | Los Caneyes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header class="header scrolled" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><i class="fas fa-leaf"></i></div>
+                <span class="logo-text">Los Caneyes</span>
+            </a>
+            <nav class="nav" id="nav">
+                <a href="habitaciones.html" class="nav-link">Habitaciones</a>
+                <a href="galeria.html" class="nav-link">Galeria</a>
+                <a href="index.html#amenidades" class="nav-link">Amenidades</a>
+                <a href="index.html#ubicacion" class="nav-link">Ubicacion</a>
+                <a href="index.html#ofertas" class="nav-link">Ofertas</a>
+                <a href="contacto.html" class="nav-link">Contacto</a>
+            </nav>
+            <div class="header-actions">
+                <div class="lang-selector">
+                    <i class="fas fa-globe"></i>
+                    <span>ES</span>
+                    <i class="fas fa-chevron-down" style="font-size:10px;"></i>
+                </div>
+                <a href="#" class="btn btn-primary">Reservar Ahora</a>
+                <div class="mobile-toggle" id="mobileToggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero" style="height: 50vh; min-height: 400px;">
+        <div class="hero-bg" style="background: linear-gradient(135deg, #0B3D4C 0%, #1a5f6e 100%);"></div>
+        <div class="hero-bg" style="background: url('https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1920&q=80') center/cover; opacity: 0.3; position: absolute; inset: 0;"></div>
+        <div class="hero-bg" style="background: linear-gradient(to bottom, rgba(11,61,76,0.4) 0%, rgba(11,61,76,0.8) 100%); position: absolute; inset: 0;"></div>
+        <div class="hero-content" style="padding-top: 80px;">
+            <p class="hero-subtitle">Un Vistazo al Paraiso</p>
+            <h1 class="hero-title" style="font-size: clamp(36px, 6vw, 64px);">Galeria <span>Virtual</span></h1>
+            <p class="hero-desc">Haga clic en cualquier imagen para explorar Los Caneyes en pantalla completa. Use las flechas o deslice para navegar.</p>
+        </div>
+    </section>
+
+    <section class="section gallery" style="padding-top: 60px;">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Explorar</span>
+                <h2 class="section-title">El Hotel</h2>
+            </div>
+            <div class="gallery-grid" style="grid-template-rows: repeat(3, 280px);">
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&q=80" alt="Vista aerea del hotel Los Caneyes" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80" alt="Lobby principal con decoracion colonial" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&q=80" alt="Fachada del hotel al atardecer" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200&q=80" alt="Piscina infinita con vista al mar" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80" alt="Detalles arquitectonicos coloniales" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=600&q=80" alt="Bar del hotel por la noche" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1563911892437-1feda9d5e54a?w=600&q=80" alt="Atardecer desde la terraza" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section gallery" style="background: var(--color-bg-warm); padding-top: 60px;">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Descanso</span>
+                <h2 class="section-title">Habitaciones y Suites</h2>
+            </div>
+            <div class="gallery-grid" style="grid-template-rows: repeat(3, 280px);">
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1200&q=80" alt="Suite Colonial - Cama king con vista al jardin" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?w=600&q=80" alt="Suite Tropical - Terraza privada" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80" alt="Villa Caney - Sala de estar" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=1200&q=80" alt="Bano de marmol con banera" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=600&q=80" alt="Terraza con vista al oceano" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=600&q=80" alt="Detalle de la decoracion" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=600&q=80" alt="Vista desde la habitacion" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section gallery" style="padding-top: 60px;">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Gastronomia</span>
+                <h2 class="section-title">Restaurante y Cocteles</h2>
+            </div>
+            <div class="gallery-grid" style="grid-template-rows: repeat(3, 280px);">
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200&q=80" alt="Restaurante El Caney - Ambiente elegante" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=600&q=80" alt="Langosta fresca del Caribe" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80" alt="Plato principal de autor" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&q=80" alt="Cocteles artesanales en el bar" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1432139509613-5c4258f97d03?w=600&q=80" alt="Desayuno gourmet tropical" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=600&q=80" alt="Postre Tres Leches" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=600&q=80" alt="Mesa decorada para cena romantica" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section gallery" style="background: var(--color-bg-warm); padding-top: 60px;">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Bienestar</span>
+                <h2 class="section-title">Spa y Experiencias</h2>
+            </div>
+            <div class="gallery-grid" style="grid-template-rows: repeat(3, 280px);">
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=1200&q=80" alt="Sala de tratamientos del Spa Caney" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&q=80" alt="Masaje terapeutico con aceites" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=600&q=80" alt="Jacuzzi con vista al jardin" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=1200&q=80" alt="Ritual de relajacion" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80" alt="Yoga al amanecer en la terraza" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=600&q=80" alt="Facial con productos naturales" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80" alt="Manicura en el spa" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section gallery" style="padding-top: 60px;">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Celebraciones</span>
+                <h2 class="section-title">Eventos y Bodas</h2>
+            </div>
+            <div class="gallery-grid" style="grid-template-rows: repeat(3, 280px);">
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80" alt="Ceremonia de boda en el jardin" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=600&q=80" alt="Jardin Caney decorado para evento" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80" alt="Mesa de banquete elegante" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1510074377623-8cf13fb86c08?w=1200&q=80" alt="Coctel de bienvenida en la terraza" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&q=80" alt="Fiesta bajo las estrellas" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600&q=80" alt="Decoracion floral de boda" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal" data-lightbox>
+                    <img src="https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=600&q=80" alt="Salon Colonial preparado para gala" loading="lazy">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background: var(--color-primary); color: white; padding: 80px 0;">
+        <div class="container">
+            <div style="text-align: center; max-width: 700px; margin: 0 auto;" class="reveal">
+                <span style="font-family: var(--font-serif); font-size: 16px; font-style: italic; color: var(--color-accent); letter-spacing: 2px; margin-bottom: 12px; display: block;">Visite Los Caneyes</span>
+                <h2 style="font-family: var(--font-serif); font-size: clamp(28px, 4vw, 40px); font-weight: 400; margin-bottom: 20px;">Viva la Experiencia en Persona</h2>
+                <p style="font-size: 16px; color: rgba(255,255,255,0.7); line-height: 1.8; margin-bottom: 30px;">Las fotos capturan momentos, pero solo estando aqui podra sentir la brisa caribena, escuchar el murmullo de las palmas y descubrir por que Los Caneyes es mas que un hotel.</p>
+                <a href="contacto.html" class="btn btn-primary">Reserve su Estadia</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" id="contacto">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <span class="logo-text">Los Caneyes</span>
+                    <p>Un refugio boutique donde la elegancia colonial se encuentra con la serenidad tropical. Hospitalidad sin igual desde 1987.</p>
+                    <div class="footer-social">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-tripadvisor"></i></a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4>Explorar</h4>
+                    <ul class="footer-links">
+                        <li><a href="habitaciones.html">Habitaciones</a></li>
+                        <li><a href="restaurante.html">Restaurante</a></li>
+                        <li><a href="spa.html">Spa & Bienestar</a></li>
+                        <li><a href="galeria.html">Galeria Virtual</a></li>
+                        <li><a href="eventos.html">Eventos y Bodas</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Informacion</h4>
+                    <ul class="footer-links">
+                        <li><a href="nosotros.html">Sobre Nosotros</a></li>
+                        <li><a href="#">Politica de Cancelacion</a></li>
+                        <li><a href="#">Terminos y Condiciones</a></li>
+                        <li><a href="#">Politica de Privacidad</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Contacto</h4>
+                    <ul class="footer-links">
+                        <li><a href="tel:+5371234567"><i class="fas fa-phone"></i> +53 7 123 4567</a></li>
+                        <li><a href="mailto:reservas@loscaneyes.com"><i class="fas fa-envelope"></i> reservas@loscaneyes.com</a></li>
+                        <li><a href="#"><i class="fas fa-map-marker-alt"></i> Avenida del Paraiso 123</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> Los Caneyes Resort & Spa. Todos los derechos reservados.</p>
+                <div class="footer-bottom-links">
+                    <a href="#">Politica de Cookies</a>
+                    <a href="#">Mapa del Sitio</a>
+                    <a href="#">Accesibilidad</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

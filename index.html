@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Caneyes | Hotel Boutique de Lujo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header class="header" id="header">
+        <div class="header-inner">
+            <a href="#" class="logo">
+                <div class="logo-icon"><i class="fas fa-leaf"></i></div>
+                <span class="logo-text">Los Caneyes</span>
+            </a>
+            <nav class="nav" id="nav">
+                <a href="#habitaciones" class="nav-link">Habitaciones</a>
+                <a href="#experiencias" class="nav-link">Experiencias</a>
+                <a href="#amenidades" class="nav-link">Amenidades</a>
+                <a href="#ubicacion" class="nav-link">Ubicacion</a>
+                <a href="#ofertas" class="nav-link">Ofertas</a>
+                <a href="#contacto" class="nav-link">Contacto</a>
+            </nav>
+            <div class="header-actions">
+                <div class="lang-selector">
+                    <i class="fas fa-globe"></i>
+                    <span>ES</span>
+                    <i class="fas fa-chevron-down" style="font-size:10px;"></i>
+                </div>
+                <a href="#reservar" class="btn btn-primary">Reservar Ahora</a>
+                <div class="mobile-toggle" id="mobileToggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero" id="inicio">
+        <div class="hero-bg"></div>
+        <div class="hero-content">
+            <p class="hero-subtitle">Bienvenido a la naturaleza del lujo</p>
+            <h1 class="hero-title">Los <span>Caneyes</span></h1>
+            <p class="hero-desc">Un refugio boutique donde la elegancia colonial se encuentra con la serenidad tropical. Experimente hospitalidad sin igual en un entorno de ensueno.</p>
+            <div class="hero-cta">
+                <a href="#habitaciones" class="btn btn-primary">Explorar Habitaciones</a>
+                <a href="#experiencias" class="btn btn-outline">Ver Experiencias</a>
+            </div>
+        </div>
+        <div class="booking-widget">
+            <div class="booking-field">
+                <label class="booking-label">Llegada</label>
+                <input type="date" class="booking-input" value="2026-06-15">
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Salida</label>
+                <input type="date" class="booking-input" value="2026-06-20">
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Huespedes</label>
+                <select class="booking-input">
+                    <option>2 Adultos, 0 Ninos</option>
+                    <option>1 Adulto</option>
+                    <option>2 Adultos, 1 Nino</option>
+                    <option>2 Adultos, 2 Ninos</option>
+                </select>
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Codigo Promocional</label>
+                <input type="text" class="booking-input" placeholder="Opcional">
+            </div>
+            <button class="btn btn-primary booking-btn">
+                <i class="fas fa-search"></i> Buscar
+            </button>
+        </div>
+        <div class="scroll-indicator" onclick="document.getElementById('bienvenida').scrollIntoView({behavior:'smooth'})">
+            <i class="fas fa-chevron-down"></i>
+        </div>
+    </section>
+
+    <section class="section welcome" id="bienvenida">
+        <div class="container">
+            <div class="welcome-grid reveal">
+                <div class="welcome-text">
+                    <span class="section-label">Desde 1987</span>
+                    <h2 class="section-title">Un Legado de Hospitalidad</h2>
+                    <p>Los Caneyes nacio de un sueno: crear un santuario donde cada detalle evoque la calidez de la tradicion cubana y el refinamiento del mundo contemporaneo. Nuestras palmas reales, arcos coloniales y jardines exuberantes forman el escenario perfecto para una experiencia inolvidable.</p>
+                    <p>Cada rincon de nuestro hotel ha sido disenado pensando en usted. Desde el aroma del cafe recien hecho en nuestro lobby hasta la brisa caribena que acaricia nuestra piscina infinita, aqui el tiempo se detiene para que usted pueda simplemente ser.</p>
+                    <div class="welcome-signature">— Los Caneyes</div>
+                </div>
+                <div class="welcome-image">
+                    <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80" alt="Los Caneyes Lobby">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="habitaciones">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Descanso Perfecto</span>
+                <h2 class="section-title">Nuestras Habitaciones</h2>
+                <p class="section-desc">Espacios disenados para el confort absoluto, donde cada amanecer trae vistas que inspiran y cada noche promete descanso reparador.</p>
+            </div>
+            <div class="rooms-grid">
+                <div class="room-card reveal">
+                    <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600&q=80" alt="Suite Colonial">
+                    <div class="room-overlay">
+                        <span class="room-category">Premium</span>
+                        <h3 class="room-name">Suite Colonial</h3>
+                        <div class="room-details">
+                            <span><i class="fas fa-ruler-combined"></i> 55 m2</span>
+                            <span><i class="fas fa-user"></i> 2 Huespedes</span>
+                            <span><i class="fas fa-eye"></i> Jardin</span>
+                        </div>
+                        <div class="room-price">$189 <span>/ noche</span></div>
+                        <a href="#" class="btn btn-primary room-btn">Ver Detalles</a>
+                    </div>
+                </div>
+                <div class="room-card reveal">
+                    <img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?w=600&q=80" alt="Suite Tropical">
+                    <div class="room-overlay">
+                        <span class="room-category">Deluxe</span>
+                        <h3 class="room-name">Suite Tropical</h3>
+                        <div class="room-details">
+                            <span><i class="fas fa-ruler-combined"></i> 70 m2</span>
+                            <span><i class="fas fa-user"></i> 3 Huespedes</span>
+                            <span><i class="fas fa-water"></i> Piscina</span>
+                        </div>
+                        <div class="room-price">$249 <span>/ noche</span></div>
+                        <a href="#" class="btn btn-primary room-btn">Ver Detalles</a>
+                    </div>
+                </div>
+                <div class="room-card reveal">
+                    <img src="https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80" alt="Villa Caney">
+                    <div class="room-overlay">
+                        <span class="room-category">Exclusiva</span>
+                        <h3 class="room-name">Villa Caney</h3>
+                        <div class="room-details">
+                            <span><i class="fas fa-ruler-combined"></i> 120 m2</span>
+                            <span><i class="fas fa-user"></i> 4 Huespedes</span>
+                            <span><i class="fas fa-umbrella-beach"></i> Vista al Mar</span>
+                        </div>
+                        <div class="room-price">$399 <span>/ noche</span></div>
+                        <a href="#" class="btn btn-primary room-btn">Ver Detalles</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section amenities" id="amenidades">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Bienestar Total</span>
+                <h2 class="section-title">Amenidades de Lujo</h2>
+                <p class="section-desc">Cada servicio ha sido cuidadosamente seleccionado para elevar su estadia a una experiencia transformadora.</p>
+            </div>
+            <div class="amenities-grid">
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-spa"></i></div>
+                    <h3 class="amenity-title">Spa & Bienestar</h3>
+                    <p class="amenity-desc">Tratamientos holisticos con ingredientes locales, masajes terapeuticos y rituales de relajacion en un santuario de paz.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-utensils"></i></div>
+                    <h3 class="amenity-title">Restaurante Gourmet</h3>
+                    <p class="amenity-desc">Cocina fusion caribena-internacional con productos de huerta propia y maridajes excepcionales.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-water"></i></div>
+                    <h3 class="amenity-title">Piscina Infinita</h3>
+                    <p class="amenity-desc">Relajese en nuestra piscina de borde infinito con vistas panoramicas al mar Caribe y servicio de cabanas privadas.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-dumbbell"></i></div>
+                    <h3 class="amenity-title">Centro Fitness</h3>
+                    <p class="amenity-desc">Equipamiento Technogym de ultima generacion, clases de yoga al amanecer y entrenadores personales.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-glass-cheers"></i></div>
+                    <h3 class="amenity-title">Bar & Lounge</h3>
+                    <p class="amenity-desc">Cocteles artesanales, seleccion de rones premium y musica en vivo bajo las estrellas tropicales.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-ring"></i></div>
+                    <h3 class="amenity-title">Eventos & Bodas</h3>
+                    <p class="amenity-desc">Salones elegantes y jardines para celebraciones inolvidables con catering personalizado y planificacion experta.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-shuttle-van"></i></div>
+                    <h3 class="amenity-title">Traslados VIP</h3>
+                    <p class="amenity-desc">Servicio de transporte privado desde el aeropuerto en vehiculos de lujo con champagne de bienvenida.</p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-concierge-bell"></i></div>
+                    <h3 class="amenity-title">Conserjeria 24h</h3>
+                    <p class="amenity-desc">Nuestro equipo de conserjes anticipa cada necesidad, desde reservas exclusivas hasta itinerarios personalizados.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section gallery" id="experiencias">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Momentos Inolvidables</span>
+                <h2 class="section-title">Galeria de Experiencias</h2>
+                <p class="section-desc">Cada imagen cuenta una historia de lujo, naturaleza y momentos que perduran para siempre.</p>
+            </div>
+            <div class="gallery-grid">
+                <div class="gallery-item reveal">
+                    <img src="https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800&q=80" alt="Vista del hotel">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal">
+                    <img src="https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&q=80" alt="Restaurante">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal">
+                    <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&q=80" alt="Detalle">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal">
+                    <img src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80" alt="Piscina">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal">
+                    <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=400&q=80" alt="Coctel">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal">
+                    <img src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80" alt="Spa">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+                <div class="gallery-item reveal">
+                    <img src="https://images.unsplash.com/photo-1563911892437-1feda9d5e54a?w=400&q=80" alt="Atardecer">
+                    <div class="gallery-overlay"><i class="fas fa-expand"></i></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="ubicacion">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Descubra el Paraiso</span>
+                <h2 class="section-title">Ubicacion Privilegiada</h2>
+                <p class="section-desc">Situado en la costa mas exclusiva, Los Caneyes le conecta con la esencia del Caribe.</p>
+            </div>
+            <div class="location-grid reveal">
+                <div class="location-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.448724324236!2d-80.1307!3d25.7617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDQ1JzQyLjEiTiA4MMKwMDcnNTAuNSJX!5e0!3m2!1ses!2sus!4v1" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                <div class="location-info">
+                    <h3>Los Caneyes Resort & Spa</h3>
+                    <p class="location-address">
+                        Avenida del Paraiso 123<br>
+                        Zona Hotelera, Playa del Este<br>
+                        La Habana, Cuba
+                    </p>
+                    <div class="location-contact">
+                        <div class="location-contact-item">
+                            <i class="fas fa-phone"></i>
+                            <span>+53 7 123 4567</span>
+                        </div>
+                        <div class="location-contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <span>reservas@loscaneyes.com</span>
+                        </div>
+                        <div class="location-contact-item">
+                            <i class="fas fa-clock"></i>
+                            <span>Check-in: 15:00 | Check-out: 12:00</span>
+                        </div>
+                    </div>
+                    <div class="neighborhood">
+                        <h4>Atracciones Cercanas</h4>
+                        <div class="neighborhood-list">
+                            <div class="neighborhood-item"><i class="fas fa-map-marker-alt"></i> Playa del Este — 5 min</div>
+                            <div class="neighborhood-item"><i class="fas fa-map-marker-alt"></i> Malecon Habanero — 15 min</div>
+                            <div class="neighborhood-item"><i class="fas fa-map-marker-alt"></i> Habana Vieja — 20 min</div>
+                            <div class="neighborhood-item"><i class="fas fa-map-marker-alt"></i> Fabrica de Arte Cubano — 25 min</div>
+                            <div class="neighborhood-item"><i class="fas fa-map-marker-alt"></i> Vinales (excursion) — 2h</div>
+                            <div class="neighborhood-item"><i class="fas fa-map-marker-alt"></i> Varadero — 1h 30min</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section testimonials" id="testimonios">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Voces de Nuestros Huespedes</span>
+                <h2 class="section-title">Experiencias Reales</h2>
+                <p class="section-desc">Lo que dicen quienes han vivido la magia de Los Caneyes.</p>
+            </div>
+            <div class="testimonials-grid">
+                <div class="testimonial-card reveal">
+                    <div class="testimonial-stars">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                    <p class="testimonial-text">"Un verdadero oasis. Desde el momento en que cruzamos las puertas, supimos que habiamos encontrado algo especial. El personal anticipo cada necesidad antes de que la expresaramos."</p>
+                    <div class="testimonial-author">
+                        <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80" alt="Maria G." class="testimonial-avatar">
+                        <div>
+                            <div class="testimonial-name">Maria Gonzalez</div>
+                            <div class="testimonial-date">Abril 2026 — Madrid, Espana</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card reveal">
+                    <div class="testimonial-stars">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                    <p class="testimonial-text">"Celebramos nuestro aniversario aqui y fue magico. La cena privada en la playa, el spa al atardecer... cada detalle fue perfecto. Volveremos el proximo ano sin duda."</p>
+                    <div class="testimonial-author">
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80" alt="Carlos R." class="testimonial-avatar">
+                        <div>
+                            <div class="testimonial-name">Carlos & Laura Rivera</div>
+                            <div class="testimonial-date">Marzo 2026 — Buenos Aires, Argentina</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card reveal">
+                    <div class="testimonial-stars">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <p class="testimonial-text">"He viajado por todo el mundo y raramente encuentro un hotel que combine autenticidad cultural con lujo moderno de esta manera. Los Caneyes es una joya escondida."</p>
+                    <div class="testimonial-author">
+                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80" alt="James T." class="testimonial-avatar">
+                        <div>
+                            <div class="testimonial-name">James Thompson</div>
+                            <div class="testimonial-date">Febrero 2026 — Londres, Reino Unido</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="ofertas">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Ofertas Exclusivas</span>
+                <h2 class="section-title">Paquetes Especiales</h2>
+                <p class="section-desc">Oportunidades unicas para vivir Los Caneyes de formas extraordinarias.</p>
+            </div>
+            <div class="offers-grid">
+                <div class="offer-card reveal">
+                    <img src="https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=600&q=80" alt="Escapada Romantica">
+                    <span class="offer-badge">Romance</span>
+                    <div class="offer-overlay">
+                        <h3 class="offer-title">Escapada Romantica</h3>
+                        <p class="offer-desc">3 noches con cena privada en la playa, spa para parejas y champagne de bienvenida.</p>
+                        <div class="offer-price">$699 <span>por pareja</span></div>
+                        <a href="#" class="btn btn-primary">Reservar Paquete</a>
+                    </div>
+                </div>
+                <div class="offer-card reveal">
+                    <img src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=600&q=80" alt="Bienestar Total">
+                    <span class="offer-badge urgent">Ultimas 3!</span>
+                    <div class="offer-overlay">
+                        <h3 class="offer-title">Retiro de Bienestar</h3>
+                        <p class="offer-desc">5 dias de transformacion con yoga matutino, tratamientos spa diarios y menu detox gourmet.</p>
+                        <div class="offer-price">$1,199 <span>por persona</span></div>
+                        <a href="#" class="btn btn-primary">Reservar Paquete</a>
+                    </div>
+                </div>
+                <div class="offer-card reveal">
+                    <img src="https://images.unsplash.com/photo-1510074377623-8cf13fb86c08?w=600&q=80" alt="Aventura Familiar">
+                    <span class="offer-badge">Familia</span>
+                    <div class="offer-overlay">
+                        <h3 class="offer-title">Aventura Familiar</h3>
+                        <p class="offer-desc">4 noches con actividades para ninos, excursion a Vinales y cena tematica cubana.</p>
+                        <div class="offer-price">$1,499 <span>familia 4 pax</span></div>
+                        <a href="#" class="btn btn-primary">Reservar Paquete</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" id="contacto">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <span class="logo-text">Los Caneyes</span>
+                    <p>Un refugio boutique donde la elegancia colonial se encuentra con la serenidad tropical. Hospitalidad sin igual desde 1987.</p>
+                    <div class="footer-social">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-tripadvisor"></i></a>
+                    </div>
+                    <div class="newsletter">
+                        <h4 style="font-family: var(--font-serif); font-size: 20px; font-weight: 400; margin-bottom: 12px;">Newsletter</h4>
+                        <p style="font-size: 14px; color: rgba(255,255,255,0.5); margin-bottom: 12px;">Suscribase y obtenga un 10% de descuento en su primera estadia.</p>
+                        <form class="newsletter-form">
+                            <input type="email" class="newsletter-input" placeholder="Su correo electronico">
+                            <button type="submit" class="newsletter-btn">Suscribirse</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4>Explorar</h4>
+                    <ul class="footer-links">
+                        <li><a href="#habitaciones">Habitaciones</a></li>
+                        <li><a href="#amenidades">Restaurantes</a></li>
+                        <li><a href="#amenidades">Spa & Bienestar</a></li>
+                        <li><a href="#experiencias">Experiencias</a></li>
+                        <li><a href="#ofertas">Ofertas Especiales</a></li>
+                        <li><a href="#">Galeria Virtual</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Informacion</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">Sobre Nosotros</a></li>
+                        <li><a href="#">Politica de Cancelacion</a></li>
+                        <li><a href="#">Terminos y Condiciones</a></li>
+                        <li><a href="#">Politica de Privacidad</a></li>
+                        <li><a href="#">Accesibilidad</a></li>
+                        <li><a href="#">Trabaja con Nosotros</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Contacto</h4>
+                    <ul class="footer-links">
+                        <li><a href="tel:+5371234567"><i class="fas fa-phone"></i> +53 7 123 4567</a></li>
+                        <li><a href="mailto:reservas@loscaneyes.com"><i class="fas fa-envelope"></i> reservas@loscaneyes.com</a></li>
+                        <li><a href="#"><i class="fas fa-map-marker-alt"></i> Avenida del Paraiso 123</a></li>
+                        <li><a href="#"><i class="fas fa-clock"></i> Recepcion 24h</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> Los Caneyes Resort & Spa. Todos los derechos reservados.</p>
+                <div class="footer-bottom-links">
+                    <a href="#">Politica de Cookies</a>
+                    <a href="#">Mapa del Sitio</a>
+                    <a href="#">Accesibilidad</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="mobile-booking-bar">
+        <div class="mobile-booking-info">
+            <span style="font-size:12px;color:var(--color-text-light);">Desde</span>
+            <div class="mobile-booking-price">$189 <span>/ noche</span></div>
+        </div>
+        <a href="#" class="btn btn-primary">Reservar Ahora</a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

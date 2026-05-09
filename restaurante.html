@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurante | Los Caneyes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header class="header scrolled" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><i class="fas fa-leaf"></i></div>
+                <span class="logo-text">Los Caneyes</span>
+            </a>
+            <nav class="nav" id="nav">
+                <a href="habitaciones.html" class="nav-link">Habitaciones</a>
+                <a href="index.html#experiencias" class="nav-link">Experiencias</a>
+                <a href="index.html#amenidades" class="nav-link">Amenidades</a>
+                <a href="index.html#ubicacion" class="nav-link">Ubicacion</a>
+                <a href="index.html#ofertas" class="nav-link">Ofertas</a>
+                <a href="contacto.html" class="nav-link">Contacto</a>
+            </nav>
+            <div class="header-actions">
+                <div class="lang-selector">
+                    <i class="fas fa-globe"></i>
+                    <span>ES</span>
+                    <i class="fas fa-chevron-down" style="font-size:10px;"></i>
+                </div>
+                <a href="#" class="btn btn-primary">Reservar Mesa</a>
+                <div class="mobile-toggle" id="mobileToggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero" style="height: 50vh; min-height: 400px;">
+        <div class="hero-bg" style="background: linear-gradient(135deg, #0B3D4C 0%, #1a5f6e 100%);"></div>
+        <div class="hero-bg" style="background: url('https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1920&q=80') center/cover; opacity: 0.3; position: absolute; inset: 0;"></div>
+        <div class="hero-bg" style="background: linear-gradient(to bottom, rgba(11,61,76,0.4) 0%, rgba(11,61,76,0.8) 100%); position: absolute; inset: 0;"></div>
+        <div class="hero-content" style="padding-top: 80px;">
+            <p class="hero-subtitle">Sabor y Tradicion</p>
+            <h1 class="hero-title" style="font-size: clamp(36px, 6vw, 64px);">Restaurante <span>El Caney</span></h1>
+            <p class="hero-desc">Cocina caribena de autor donde cada plato cuenta una historia de raices, mar y tierra.</p>
+        </div>
+    </section>
+
+    <section class="section welcome">
+        <div class="container">
+            <div class="welcome-grid reveal">
+                <div class="welcome-text">
+                    <span class="section-label">Chef Ejecutivo</span>
+                    <h2 class="section-title">Una Experiencia Gastronomica Unica</h2>
+                    <p>Bajo la direccion del Chef Roberto Morales, El Caney fusiona tecnicas culinarias internacionales con los sabores mas autenticos del Caribe. Nuestros ingredientes provienen de huertas locales y pescadores artesanales, garantizando frescura en cada bocado.</p>
+                    <p>El ambiente colonial del restaurante, con sus arcos de piedra y vista al jardin tropical, crea el escenario perfecto para una cena inolvidable.</p>
+                    <div style="display: flex; gap: 30px; margin-top: 30px;">
+                        <div style="text-align: center;">
+                            <div style="font-family: var(--font-serif); font-size: 36px; color: var(--color-accent); font-weight: 600;">4.9</div>
+                            <div style="font-size: 12px; color: var(--color-text-light); text-transform: uppercase; letter-spacing: 1px;">Rating</div>
+                        </div>
+                        <div style="text-align: center;">
+                            <div style="font-family: var(--font-serif); font-size: 36px; color: var(--color-accent); font-weight: 600;">15+</div>
+                            <div style="font-size: 12px; color: var(--color-text-light); text-transform: uppercase; letter-spacing: 1px;">Anos de Excelencia</div>
+                        </div>
+                        <div style="text-align: center;">
+                            <div style="font-family: var(--font-serif); font-size: 36px; color: var(--color-accent); font-weight: 600;">3</div>
+                            <div style="font-size: 12px; color: var(--color-text-light); text-transform: uppercase; letter-spacing: 1px;">Estrellas Michelin</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="welcome-image" style="height: 500px;">
+                    <img src="https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800&q=80" alt="Chef en accion">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background: var(--color-bg-warm);">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Nuestros Platos</span>
+                <h2 class="section-title">Menu Destacado</h2>
+                <p class="section-desc">Una seleccion de nuestros platos mas celebrados por criticos y huespedes.</p>
+            </div>
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 40px;">
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); display: flex;">
+                    <div style="width: 200px; height: 200px; flex-shrink: 0;">
+                        <img src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=400&q=80" alt="Langosta" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 24px; flex: 1;">
+                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
+                            <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary);">Langosta en Salsa de Ron</h3>
+                            <span style="font-family: var(--font-serif); font-size: 20px; color: var(--color-accent); font-weight: 600;">$42</span>
+                        </div>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.6;">Langosta fresca del Caribe con reduccion de ron anejo, acompanada de pure de malanga y vegetales de temporada.</p>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); display: flex;">
+                    <div style="width: 200px; height: 200px; flex-shrink: 0;">
+                        <img src="https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80" alt="Ropa Vieja" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 24px; flex: 1;">
+                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
+                            <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary);">Ropa Vieja de Autor</h3>
+                            <span style="font-family: var(--font-serif); font-size: 20px; color: var(--color-accent); font-weight: 600;">$28</span>
+                        </div>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.6;">Nuestra interpretacion moderna del clasico cubano, con carne deshebrada en salsa de tomate criollo y arroz congris.</p>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); display: flex;">
+                    <div style="width: 200px; height: 200px; flex-shrink: 0;">
+                        <img src="https://images.unsplash.com/photo-1432139509613-5c4258f97d03?w=400&q=80" alt="Pescado" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 24px; flex: 1;">
+                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
+                            <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary);">Pescado del Dia</h3>
+                            <span style="font-family: var(--font-serif); font-size: 20px; color: var(--color-accent); font-weight: 600;">$35</span>
+                        </div>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.6;">Captura del dia a la parrilla con mantequilla de hierbas, servido con yuca al mojo y ensalada de aguacate.</p>
+                    </div>
+                </div>
+                <div class="reveal" style="background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); display: flex;">
+                    <div style="width: 200px; height: 200px; flex-shrink: 0;">
+                        <img src="https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&q=80" alt="Postre" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 24px; flex: 1;">
+                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
+                            <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary);">Tres Leches Tropical</h3>
+                            <span style="font-family: var(--font-serif); font-size: 20px; color: var(--color-accent); font-weight: 600;">$14</span>
+                        </div>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.6;">El postre insignia del Caribe con un toque de Los Caneyes: coco tostado, frutas exoticas y reduccion de maracuya.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section amenities">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Horarios y Servicios</span>
+                <h2 class="section-title">Informacion del Restaurante</h2>
+            </div>
+            <div class="amenities-grid" style="grid-template-columns: repeat(3, 1fr);">
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-sun"></i></div>
+                    <h3 class="amenity-title">Desayuno</h3>
+                    <p class="amenity-desc">Buffet internacional y a la carta<br><strong>7:00 - 11:00 AM</strong></p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-cloud-sun"></i></div>
+                    <h3 class="amenity-title">Almuerzo</h3>
+                    <p class="amenity-desc">Menu ejecutivo y especialidades<br><strong>12:00 - 3:00 PM</strong></p>
+                </div>
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon"><i class="fas fa-moon"></i></div>
+                    <h3 class="amenity-title">Cena</h3>
+                    <p class="amenity-desc">Menu degustacion y a la carta<br><strong>6:00 - 11:00 PM</strong></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Reservas</span>
+                <h2 class="section-title">Reserve su Mesa</h2>
+                <p class="section-desc">Asegure su lugar para una experiencia gastronomica inolvidable.</p>
+            </div>
+            <div style="max-width: 600px; margin: 0 auto; background: white; padding: 40px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);" class="reveal">
+                <form style="display: flex; flex-direction: column; gap: 20px;">
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+                        <div>
+                            <label style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-text-light); margin-bottom: 8px; display: block;">Nombre</label>
+                            <input type="text" style="width: 100%; padding: 12px 16px; border: 1.5px solid #E5E5E5; border-radius: 4px; font-family: var(--font-sans); font-size: 15px;" placeholder="Su nombre">
+                        </div>
+                        <div>
+                            <label style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-text-light); margin-bottom: 8px; display: block;">Apellido</label>
+                            <input type="text" style="width: 100%; padding: 12px 16px; border: 1.5px solid #E5E5E5; border-radius: 4px; font-family: var(--font-sans); font-size: 15px;" placeholder="Su apellido">
+                        </div>
+                    </div>
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+                        <div>
+                            <label style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-text-light); margin-bottom: 8px; display: block;">Fecha</label>
+                            <input type="date" style="width: 100%; padding: 12px 16px; border: 1.5px solid #E5E5E5; border-radius: 4px; font-family: var(--font-sans); font-size: 15px;">
+                        </div>
+                        <div>
+                            <label style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-text-light); margin-bottom: 8px; display: block;">Hora</label>
+                            <select style="width: 100%; padding: 12px 16px; border: 1.5px solid #E5E5E5; border-radius: 4px; font-family: var(--font-sans); font-size: 15px;">
+                                <option>7:00 PM</option>
+                                <option>7:30 PM</option>
+                                <option>8:00 PM</option>
+                                <option>8:30 PM</option>
+                                <option>9:00 PM</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div>
+                        <label style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-text-light); margin-bottom: 8px; display: block;">Numero de Personas</label>
+                        <select style="width: 100%; padding: 12px 16px; border: 1.5px solid #E5E5E5; border-radius: 4px; font-family: var(--font-sans); font-size: 15px;">
+                            <option>2 Personas</option>
+                            <option>3 Personas</option>
+                            <option>4 Personas</option>
+                            <option>5-8 Personas</option>
+                            <option>Grupo (+8)</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-text-light); margin-bottom: 8px; display: block;">Solicitudes Especiales</label>
+                        <textarea style="width: 100%; padding: 12px 16px; border: 1.5px solid #E5E5E5; border-radius: 4px; font-family: var(--font-sans); font-size: 15px; resize: vertical; min-height: 100px;" placeholder="Alergias, ocasion especial, preferencias..."></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">Confirmar Reserva</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" id="contacto">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <span class="logo-text">Los Caneyes</span>
+                    <p>Un refugio boutique donde la elegancia colonial se encuentra con la serenidad tropical. Hospitalidad sin igual desde 1987.</p>
+                    <div class="footer-social">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-tripadvisor"></i></a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4>Explorar</h4>
+                    <ul class="footer-links">
+                        <li><a href="habitaciones.html">Habitaciones</a></li>
+                        <li><a href="restaurante.html">Restaurante</a></li>
+                        <li><a href="index.html#amenidades">Spa & Bienestar</a></li>
+                        <li><a href="index.html#experiencias">Experiencias</a></li>
+                        <li><a href="index.html#ofertas">Ofertas Especiales</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Informacion</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">Sobre Nosotros</a></li>
+                        <li><a href="#">Politica de Cancelacion</a></li>
+                        <li><a href="#">Terminos y Condiciones</a></li>
+                        <li><a href="#">Politica de Privacidad</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Contacto</h4>
+                    <ul class="footer-links">
+                        <li><a href="tel:+5371234567"><i class="fas fa-phone"></i> +53 7 123 4567</a></li>
+                        <li><a href="mailto:reservas@loscaneyes.com"><i class="fas fa-envelope"></i> reservas@loscaneyes.com</a></li>
+                        <li><a href="#"><i class="fas fa-map-marker-alt"></i> Avenida del Paraiso 123</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> Los Caneyes Resort & Spa. Todos los derechos reservados.</p>
+                <div class="footer-bottom-links">
+                    <a href="#">Politica de Cookies</a>
+                    <a href="#">Mapa del Sitio</a>
+                    <a href="#">Accesibilidad</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

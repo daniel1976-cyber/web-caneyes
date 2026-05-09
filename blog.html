@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog | Los Caneyes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header class="header scrolled" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><i class="fas fa-leaf"></i></div>
+                <span class="logo-text">Los Caneyes</span>
+            </a>
+            <nav class="nav" id="nav">
+                <a href="habitaciones.html" class="nav-link">Habitaciones</a>
+                <a href="galeria.html" class="nav-link">Galeria</a>
+                <a href="blog.html" class="nav-link">Blog</a>
+                <a href="index.html#amenidades" class="nav-link">Amenidades</a>
+                <a href="eventos.html" class="nav-link">Eventos</a>
+                <a href="contacto.html" class="nav-link">Contacto</a>
+            </nav>
+            <div class="header-actions">
+                <div class="lang-selector">
+                    <i class="fas fa-globe"></i>
+                    <span>ES</span>
+                    <i class="fas fa-chevron-down" style="font-size:10px;"></i>
+                </div>
+                <a href="#" class="btn btn-primary">Reservar Ahora</a>
+                <div class="mobile-toggle" id="mobileToggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero" style="height: 50vh; min-height: 400px;">
+        <div class="hero-bg" style="background: linear-gradient(135deg, #0B3D4C 0%, #1a5f6e 100%);"></div>
+        <div class="hero-bg" style="background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80') center/cover; opacity: 0.3; position: absolute; inset: 0;"></div>
+        <div class="hero-bg" style="background: linear-gradient(to bottom, rgba(11,61,76,0.4) 0%, rgba(11,61,76,0.8) 100%); position: absolute; inset: 0;"></div>
+        <div class="hero-content" style="padding-top: 80px;">
+            <p class="hero-subtitle">Inspiracion y Descubrimientos</p>
+            <h1 class="hero-title" style="font-size: clamp(36px, 6vw, 64px);">El <span>Blog</span> de Los Caneyes</h1>
+            <p class="hero-desc">Historias, consejos y secretos del Caribe para que su proxima aventura sea inolvidable.</p>
+        </div>
+    </section>
+
+    <section class="section" style="padding-top: 60px;">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Explorar</span>
+                <h2 class="section-title">Articulos Recientes</h2>
+            </div>
+
+            <!-- Articulo Destacado -->
+            <div class="reveal" style="margin-bottom: 60px;">
+                <a href="blog-post.html" style="text-decoration: none; color: inherit;">
+                    <div style="display: grid; grid-template-columns: 1.2fr 1fr; gap: 0; border-radius: 8px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.1); background: white;">
+                        <div style="height: 450px; overflow: hidden;">
+                            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80" alt="Playas de Cuba" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                        </div>
+                        <div style="padding: 50px; display: flex; flex-direction: column; justify-content: center;">
+                            <div style="display: flex; gap: 12px; margin-bottom: 16px;">
+                                <span style="font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-accent); background: rgba(201,169,110,0.1); padding: 6px 12px; border-radius: 4px;">Consejos de Viaje</span>
+                                <span style="font-size: 11px; color: var(--color-text-light); padding: 6px 0;">8 de mayo, 2026</span>
+                            </div>
+                            <h3 style="font-family: var(--font-serif); font-size: 32px; color: var(--color-primary); margin-bottom: 16px; line-height: 1.2;">Las 10 Playas Mas Hermosas de Cuba Que Debe Conocer</h3>
+                            <p style="font-size: 15px; color: var(--color-text-light); line-height: 1.8; margin-bottom: 24px;">Desde las aguas cristalinas de Varadero hasta los rincones secretos de Cayo Largo, descubra los paraísos playeros que hacen de Cuba un destino de ensueño para los amantes del mar.</p>
+                            <div style="display: flex; align-items: center; gap: 12px;">
+                                <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80" alt="Autor" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover;">
+                                <div>
+                                    <span style="font-size: 14px; font-weight: 600; color: var(--color-primary);">Maria Gonzalez</span>
+                                    <span style="font-size: 13px; color: var(--color-text-light);"> — 8 min de lectura</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Grid de Articulos -->
+            <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
+
+                <a href="blog-post.html" class="reveal" style="text-decoration: none; color: inherit; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); display: block;">
+                    <div style="height: 220px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1550966871-3ed3c47e2ce2?w=600&q=80" alt="Habana Vieja" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 28px;">
+                        <div style="display: flex; gap: 10px; margin-bottom: 12px;">
+                            <span style="font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-accent);">Cultura Cubana</span>
+                        </div>
+                        <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 10px; line-height: 1.3;">Guia Completa para Explorar la Habana Vieja</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 16px;">Callejones coloniales, musica en vivo, rones artesanales y la magia de una ciudad que respira historia en cada esquina.</p>
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 12px; color: var(--color-text-light);">3 de mayo, 2026</span>
+                            <span style="font-size: 12px; color: var(--color-accent); font-weight: 600;">Leer mas <i class="fas fa-arrow-right" style="margin-left: 4px; font-size: 10px;"></i></span>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="blog-post.html" class="reveal" style="text-decoration: none; color: inherit; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); display: block;">
+                    <div style="height: 220px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1600891964092-4316c288032e?w=600&q=80" alt="Gastronomia" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 28px;">
+                        <div style="display: flex; gap: 10px; margin-bottom: 12px;">
+                            <span style="font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-accent);">Gastronomia</span>
+                        </div>
+                        <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 10px; line-height: 1.3;">Los Sabores del Caribe: Platos que No Puede Dejar de Probar</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 16px;">Desde la ropa vieja hasta el mojito perfecto, un recorrido por los sabores autenticos que definen la cocina cubana.</p>
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 12px; color: var(--color-text-light);">28 de abril, 2026</span>
+                            <span style="font-size: 12px; color: var(--color-accent); font-weight: 600;">Leer mas <i class="fas fa-arrow-right" style="margin-left: 4px; font-size: 10px;"></i></span>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="blog-post.html" class="reveal" style="text-decoration: none; color: inherit; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); display: block;">
+                    <div style="height: 220px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80" alt="Bienestar" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 28px;">
+                        <div style="display: flex; gap: 10px; margin-bottom: 12px;">
+                            <span style="font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-accent);">Bienestar</span>
+                        </div>
+                        <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 10px; line-height: 1.3;">Retiro de Bienestar: Como Desconectar en el Caribe</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 16px;">Consejos practicos para transformar sus vacaciones en una experiencia de renovacion completa para cuerpo y mente.</p>
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 12px; color: var(--color-text-light);">22 de abril, 2026</span>
+                            <span style="font-size: 12px; color: var(--color-accent); font-weight: 600;">Leer mas <i class="fas fa-arrow-right" style="margin-left: 4px; font-size: 10px;"></i></span>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="blog-post.html" class="reveal" style="text-decoration: none; color: inherit; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); display: block;">
+                    <div style="height: 220px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=600&q=80" alt="Boda" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 28px;">
+                        <div style="display: flex; gap: 10px; margin-bottom: 12px;">
+                            <span style="font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-accent);">Eventos</span>
+                        </div>
+                        <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 10px; line-height: 1.3;">Boda en el Caribe: La Guia Definitiva para el Si Quiero Perfecto</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 16px;">Todo lo que necesita saber para planificar una boda de ensueno en la costa cubana, desde la ceremonia hasta la luna de miel.</p>
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 12px; color: var(--color-text-light);">15 de abril, 2026</span>
+                            <span style="font-size: 12px; color: var(--color-accent); font-weight: 600;">Leer mas <i class="fas fa-arrow-right" style="margin-left: 4px; font-size: 10px;"></i></span>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="blog-post.html" class="reveal" style="text-decoration: none; color: inherit; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); display: block;">
+                    <div style="height: 220px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80" alt="Vinales" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 28px;">
+                        <div style="display: flex; gap: 10px; margin-bottom: 12px;">
+                            <span style="font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-accent);">Consejos de Viaje</span>
+                        </div>
+                        <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 10px; line-height: 1.3;">Excursion a Vinales: Un Dia en el Corazon de Cuba</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 16px;">Mogotes, plantaciones de tabaco y paisajes de postal. Todo lo que debe saber para organizar la excursion perfecta desde La Habana.</p>
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 12px; color: var(--color-text-light);">10 de abril, 2026</span>
+                            <span style="font-size: 12px; color: var(--color-accent); font-weight: 600;">Leer mas <i class="fas fa-arrow-right" style="margin-left: 4px; font-size: 10px;"></i></span>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="blog-post.html" class="reveal" style="text-decoration: none; color: inherit; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); display: block;">
+                    <div style="height: 220px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=600&q=80" alt="Cocteles" style="width: 100%; height: 100%; object-fit: cover; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    </div>
+                    <div style="padding: 28px;">
+                        <div style="display: flex; gap: 10px; margin-bottom: 12px;">
+                            <span style="font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--color-accent);">Gastronomia</span>
+                        </div>
+                        <h3 style="font-family: var(--font-serif); font-size: 22px; color: var(--color-primary); margin-bottom: 10px; line-height: 1.3;">El Arte del Mojito: Secretos de Nuestro Barman</h3>
+                        <p style="font-size: 14px; color: var(--color-text-light); line-height: 1.7; margin-bottom: 16px;">Aprenda a preparar el mojito perfecto con hierbabuena fresca, ron anejo y el toque secreto que solo los expertos conocen.</p>
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 12px; color: var(--color-text-light);">5 de abril, 2026</span>
+                            <span style="font-size: 12px; color: var(--color-accent); font-weight: 600;">Leer mas <i class="fas fa-arrow-right" style="margin-left: 4px; font-size: 10px;"></i></span>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+
+            <!-- Paginacion -->
+            <div style="display: flex; justify-content: center; gap: 8px; margin-top: 60px;" class="reveal">
+                <a href="#" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: var(--color-primary); color: white; font-size: 14px; font-weight: 600; text-decoration: none;">1</a>
+                <a href="#" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; color: var(--color-text); font-size: 14px; font-weight: 500; text-decoration: none; border: 1.5px solid #E5E5E5; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">2</a>
+                <a href="#" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; color: var(--color-text); font-size: 14px; font-weight: 500; text-decoration: none; border: 1.5px solid #E5E5E5; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">3</a>
+                <span style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; color: var(--color-text-light); font-size: 14px;">...</span>
+                <a href="#" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; color: var(--color-text); font-size: 14px; font-weight: 500; text-decoration: none; border: 1.5px solid #E5E5E5; transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);"><i class="fas fa-chevron-right"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background: var(--color-bg-warm);">
+        <div class="container">
+            <div class="section-header reveal">
+                <span class="section-label">Categorias</span>
+                <h2 class="section-title">Explorar por Tema</h2>
+            </div>
+            <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+                <a href="#" class="reveal" style="text-decoration: none; background: white; padding: 30px; border-radius: 8px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <i class="fas fa-plane" style="font-size: 28px; color: var(--color-accent); margin-bottom: 12px;"></i>
+                    <h4 style="font-family: var(--font-serif); font-size: 20px; color: var(--color-primary); margin-bottom: 4px;">Consejos de Viaje</h4>
+                    <span style="font-size: 13px; color: var(--color-text-light);">12 articulos</span>
+                </a>
+                <a href="#" class="reveal" style="text-decoration: none; background: white; padding: 30px; border-radius: 8px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <i class="fas fa-utensils" style="font-size: 28px; color: var(--color-accent); margin-bottom: 12px;"></i>
+                    <h4 style="font-family: var(--font-serif); font-size: 20px; color: var(--color-primary); margin-bottom: 4px;">Gastronomia</h4>
+                    <span style="font-size: 13px; color: var(--color-text-light);">8 articulos</span>
+                </a>
+                <a href="#" class="reveal" style="text-decoration: none; background: white; padding: 30px; border-radius: 8px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <i class="fas fa-music" style="font-size: 28px; color: var(--color-accent); margin-bottom: 12px;"></i>
+                    <h4 style="font-family: var(--font-serif); font-size: 20px; color: var(--color-primary); margin-bottom: 4px;">Cultura Cubana</h4>
+                    <span style="font-size: 13px; color: var(--color-text-light);">6 articulos</span>
+                </a>
+                <a href="#" class="reveal" style="text-decoration: none; background: white; padding: 30px; border-radius: 8px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.05); transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);">
+                    <i class="fas fa-spa" style="font-size: 28px; color: var(--color-accent); margin-bottom: 12px;"></i>
+                    <h4 style="font-family: var(--font-serif); font-size: 20px; color: var(--color-primary); margin-bottom: 4px;">Bienestar</h4>
+                    <span style="font-size: 13px; color: var(--color-text-light);">5 articulos</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background: var(--color-primary); color: white;">
+        <div class="container">
+            <div style="text-align: center; max-width: 600px; margin: 0 auto;" class="reveal">
+                <span style="font-family: var(--font-serif); font-size: 16px; font-style: italic; color: var(--color-accent); letter-spacing: 2px; margin-bottom: 12px; display: block;">Suscripcion</span>
+                <h2 style="font-family: var(--font-serif); font-size: clamp(24px, 4vw, 36px); font-weight: 400; margin-bottom: 16px;">Reciba Nuestras Historias en su Correo</h2>
+                <p style="font-size: 15px; color: rgba(255,255,255,0.7); line-height: 1.7; margin-bottom: 30px;">Consejos de viaje, recetas exclusivas y ofertas especiales directamente en su bandeja de entrada.</p>
+                <form style="display: flex; gap: 0; max-width: 500px; margin: 0 auto;">
+                    <input type="email" placeholder="Su correo electronico" style="flex: 1; padding: 14px 20px; border: 1px solid rgba(255,255,255,0.2); border-radius: 4px 0 0 4px; background: rgba(255,255,255,0.05); color: white; font-family: var(--font-sans); font-size: 14px; outline: none;">
+                    <button type="submit" class="btn btn-primary" style="border-radius: 0 4px 4px 0;">Suscribirse</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" id="contacto">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <span class="logo-text">Los Caneyes</span>
+                    <p>Un refugio boutique donde la elegancia colonial se encuentra con la serenidad tropical. Hospitalidad sin igual desde 1987.</p>
+                    <div class="footer-social">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-tripadvisor"></i></a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4>Explorar</h4>
+                    <ul class="footer-links">
+                        <li><a href="habitaciones.html">Habitaciones</a></li>
+                        <li><a href="restaurante.html">Restaurante</a></li>
+                        <li><a href="spa.html">Spa & Bienestar</a></li>
+                        <li><a href="galeria.html">Galeria Virtual</a></li>
+                        <li><a href="eventos.html">Eventos y Bodas</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Informacion</h4>
+                    <ul class="footer-links">
+                        <li><a href="nosotros.html">Sobre Nosotros</a></li>
+                        <li><a href="#">Politica de Cancelacion</a></li>
+                        <li><a href="#">Terminos y Condiciones</a></li>
+                        <li><a href="#">Politica de Privacidad</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Contacto</h4>
+                    <ul class="footer-links">
+                        <li><a href="tel:+5371234567"><i class="fas fa-phone"></i> +53 7 123 4567</a></li>
+                        <li><a href="mailto:reservas@loscaneyes.com"><i class="fas fa-envelope"></i> reservas@loscaneyes.com</a></li>
+                        <li><a href="#"><i class="fas fa-map-marker-alt"></i> Avenida del Paraiso 123</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> Los Caneyes Resort & Spa. Todos los derechos reservados.</p>
+                <div class="footer-bottom-links">
+                    <a href="#">Politica de Cookies</a>
+                    <a href="#">Mapa del Sitio</a>
+                    <a href="#">Accesibilidad</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
