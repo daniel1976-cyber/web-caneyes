@@ -1,17 +1,18 @@
 :root {
-            --color-primary: #0B3D4C;
-            --color-primary-dark: #082E3A;
-            --color-accent: #C9A96E;
-            --color-accent-light: #D4B87A;
-            --color-text: #1A1A1A;
-            --color-text-light: #666666;
-            --color-bg: #FFFFFF;
-            --color-bg-warm: #FAF8F5;
-            --color-bg-dark: #0B3D4C;
-            --font-serif: 'Cormorant Garamond', serif;
-            --font-sans: 'Inter', sans-serif;
-            --transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-        }
+    --color-primary: #1B365D; /* Azul Horizontes */
+    --color-primary-dark: #122642;
+    --color-accent: #D35400; /* Terracota Taíno */
+    --color-accent-light: #E67E22;
+    --color-secondary: #27AE60; /* Verde Tropical */
+    --color-text: #2C3E50;
+    --color-text-light: #7F8C8D;
+    --color-bg: #FFFFFF;
+    --color-bg-warm: #F4EFEA;
+    --color-bg-dark: #1B365D;
+    --font-serif: 'Roboto Slab', serif;
+    --font-sans: 'Inter', sans-serif;
+    --transition: all 0.3s ease;
+}
         * { margin: 0; padding: 0; box-sizing: border-box; }
         html { scroll-behavior: smooth; }
         body {
