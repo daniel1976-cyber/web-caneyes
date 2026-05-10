@@ -1,0 +1,540 @@
+﻿🏨
+ SERVICIOS ACTU
+ALES DEL HOTEL LOS CANEYES (
+2026)
+Marca Horizontes - Cubanacán S.A.
+⏰ HORARIOS PRINCIPALES DE SERVICIOS
+📋
+ RECEPCIÓN Y CHECK-IN/CHECK-OUT
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1142"/><w:gridCol w:w="2000"/><w:gridCol w:w="4507"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Horario
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Notas
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Recepción
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00D25BFC" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve"> 
+24 horas 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Atención permanente 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:proofErr w:type="spellStart"/><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Check
+-in
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Desde las 
+16:00 
+hrs
+ 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:proofErr w:type="spellStart"/><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Early
+ 
+check
+-in disponible con cargo adicional 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:proofErr w:type="spellStart"/><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Check-out
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Hasta las 
+12:00 
+hrs
+ 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Late 
+check-out
+ disponible con cargo adicional 
+🍽
+️ GASTRONOMÍA
+Restaurante "Los Taínos" - Buffet Internacional
+📍
+ Ubicación: Área de jardines 
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1088"/><w:gridCol w:w="1707"/><w:gridCol w:w="4587"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Horario
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Detalles
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Desayuno
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">07:30 - 10:00 
+hrs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Buffet con opciones criollas e internacionales 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Almuerzo
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">13:00 - 15:00 
+hrs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Menú variado con platos tradicionales cubanos 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Cena
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">19:00 - 22:00 
+hrs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="007E76BA"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Música en vivo en algunas ocasiones 
+Condiciones gastronómicas:
+El servicio de buffet 
+no incluye bebidas
+ en el precio base 
+Dietas especiales y opciones vegetarianas 
+bajo solicitud
+ 
+Código de vestimenta: informal elegante en restaurante principal 
+Snack Bar "Cuba
+ 
+Cuba
+" - Piscina
+📍
+ Ubicación: Área de la piscina 
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="2196"/><w:gridCol w:w="1707"/><w:gridCol w:w="3607"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Horario
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Detalles
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Meriendas y bebidas
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:val="en-US" w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:val="en-US" w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">09:00 - 18:00 
+hrs
+ 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Parrillada al carbón, snacks, cocteles 
+Sala de Fiestas "Songa
+ Club
+"
+📍
+ Ubicación: Área de jardines
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="2795"/><w:gridCol w:w="1707"/><w:gridCol w:w="3775"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:lastRenderedPageBreak/><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Horario
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Detalles
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Discoteca/Entretenimiento
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">22:00 - 02:00 
+hrs
+ 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Música en vivo, DJ, eventos temáticos 
+🏊
+ INSTALACIONES RECREATIVAS
+Piscina al Aire Libre
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1929"/><w:gridCol w:w="2613"/><w:gridCol w:w="3275"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Horario
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Detalles
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Acceso a piscina
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">09:00 - 18:00 
+hrs
+ diario 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Incluye tumbonas y sombrillas 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio de toallas
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Durante horario de piscina
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Disponible en recepción 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Pasadías
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">09:00 - 18:00 
+hrs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Con opción de almuerzo incluido 
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="81"/><w:gridCol w:w="66"/><w:gridCol w:w="81"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="003E5792"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="003E5792"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="003E5792"><w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p></w:tc></w:tr></w:tbl><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="006639F6" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:pict><v:rect id="_x0000_i1028" style="width:0;height:1.5pt" o:hralign="center" o:hrstd="t" o:hr="t" fillcolor="#a0a0a0" stroked="f"/></w:pict></w:r></w:p><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="006639F6" w:rsidP="003E5792"><w:pPr><w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/><w:outlineLvl w:val="2"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="27"/><w:szCs w:val="27"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:pict><v:rect id="_x0000_i1029" style="width:0;height:1.5pt" o:hralign="center" o:hrstd="t" o:hr="t" fillcolor="#a0a0a0" stroked="f"/></w:pict></w:r></w:p><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/><w:outlineLvl w:val="2"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="27"/><w:szCs w:val="27"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Segoe UI Symbol" w:eastAsia="Times New Roman" w:hAnsi="Segoe UI Symbol" w:cs="Segoe UI Symbol"/><w:b/><w:bCs/><w:sz w:val="27"/><w:szCs w:val="27"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>🛎
+️ SERVICIOS GENERALES
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="2506"/><w:gridCol w:w="1997"/><w:gridCol w:w="4001"/></w:tblGrid><w:tr w:rsidR="003E5792" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Disponibilidad
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Notas
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:proofErr w:type="spellStart"/><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Wi
+-Fi en lobby
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">24 horas 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="003E5792" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Servicio gratis para 
+huesped
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Cambio de divisas
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Horario de recepción
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">En caja fuerte de recepción 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Estacionamiento vigilado
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">24 horas 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Gratuito para huéspedes 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio de maleteros
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="003E5792"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">24 horas 
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="003E5792" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Personal multilingüe (ES/EN/FR)
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Accesibilidad
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Permanente
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Habitación adaptada, rampas, baños accesibles 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Primeros auxilios
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>24 horas
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Servicio de enfermería disponible 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Tienda de 
+souvenirs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">09:00 - 18:00 
+hrs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Artesanías cubanas y recuerdos 
+🎭
+ ACTIVIDADES Y ENTRETENIMIENTO
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1915"/><w:gridCol w:w="1481"/><w:gridCol w:w="5108"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Actividad
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Horario
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Frecuencia
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Animación diurna
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">10:00 - 13:00 
+hrs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Diaria 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Animación nocturna
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">20:00 - 23:00 
+hrs
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Diaria música 
+mecánica,
+espectáculos
+ en vivo 
+en temporada alta
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:lastRenderedPageBreak/><w:t>Eventos especiales
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Variable
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Consultar programación mensual en redes 
+👶
+ SERVICIOS PARA FAMILIAS
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="2282"/><w:gridCol w:w="3722"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Detalles
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Niños bienvenidos
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Sin restricción de edad 
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Actividades infantiles
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Juegos p
+articipativos, magos, payasos
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Cunas disponibles
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Bajo solicitud en recepción
+💼
+ SERVICIOS PARA EVENTOS
+<w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblCellSpacing w:w="15" w:type="dxa"/><w:tblCellMar><w:top w:w="15" w:type="dxa"/><w:left w:w="15" w:type="dxa"/><w:bottom w:w="15" w:type="dxa"/><w:right w:w="15" w:type="dxa"/></w:tblCellMar><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="2694"/><w:gridCol w:w="1592"/><w:gridCol w:w="4218"/></w:tblGrid><w:tr w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidTr="00C96553"><w:trPr><w:tblHeader/><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Servicio
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Capacidad
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Detalles
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Salón multipropósito
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>30-200 personas
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Equipos audiovisuales disponibles 
+(
+Actualmente no disponible
+)
+<w:trPr><w:tblCellSpacing w:w="15" w:type="dxa"/></w:trPr><w:tc><w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/><w:bCs/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Paquetes bodas/luna de miel
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t>Personalizado
+<w:tcPr><w:tcW w:w="0" w:type="auto"/><w:vAlign w:val="center"/><w:hideMark/></w:tcPr><w:p w:rsidR="006C3AA2" w:rsidRDefault="006C3AA2" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr></w:p><w:p w:rsidR="00C96553" w:rsidRPr="00C96553" w:rsidRDefault="00C96553" w:rsidP="00C96553"><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr></w:pPr><w:r w:rsidRPr="00C96553"><w:rPr><w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:sz w:val="24"/><w:szCs w:val="24"/><w:lang w:eastAsia="es-ES"/></w:rPr><w:t xml:space="preserve">Incluye decoración, catering y servicios especiales 
+Todos los servicios de eventos requieren coordinación previa con el departamento comercial: comercial@caneyes.vcl.tur.cu
+⚠️
+ NOTAS IMPORTANTES (2025-2026)
+Variabilidad de horarios
+: Los horarios de restaurantes y bares pueden modificarse según temporada turística y nivel de ocupación del hotel 
+.
+Servicios con cargo adicional
+: Los servicios marcados con ($) incluyen: 
+Wi
+-Fi, 
+minibar
+, lavandería, traslados, excursiones, spa, y 
+early
+/late 
+check-out
+ 
+.
+Métodos de pago
+: 
+ 
+.
+Reservaciones de servicios
+: Para spa, eventos especiales y excursiones, se recomienda coordinar con 
+24 horas de anticipación
+ 
+.
+Actualización en redes
+: Para información en tiempo real sobre eventos y horarios especiales, consultar las redes oficiales:
+Facebook: 
+@
+HotelCaneyes
+ 
+Instagram: 
+@
+loscaneyeshotel
+ 
+📞
+ CONTACTO DIRECTO PARA CONSULTAS
+Teléfono
+: (+53 42) 21 8141 al 43 / (+53 42) 20 4513 
+Email 
+reservas
+: reservas@caneyes.hor.tur.cu 
+Email comercial
+: comercial@caneyes.vcl.tur.cu 
+Dirección
+: Av. Eucaliptos y Circunvalación, Santa Clara, Villa Clara, Cuba. CP: 50100 
+HOTEL LOS CANEYES - MARCA HORIZONTES
+📋
+ FICHA TÉCNICA
+Ubicación:
+ Avenida Eucaliptos y Circunvalación, Santa Clara, Villa Clara, Cuba 
+holiplus.com
+Categoría:
+ 3 estrellas 
+www.solwayscuba.com
+Cadena:
+ Cubanacán S.A. - Marca Horizontes 
+www.cubanacanhoteles.com
+Año de construcción:
+ 1966 
+www.ecured.cu
+Última renovación:
+ 2006 
+www.ecured.cu
+Distancia al centro:
+ 1-2 km de Santa Clara 
+www.tripadvisor.es
+Distancia al aeropuerto:
+ 15 km del Aeropuerto Internacional de Santa Clara 
+www.solwayscuba.com
+🏛
+️ TIPOLOGÍA ARQUITECTÓNICA
+Concepto Arquitectónico Único:
+El Hotel Los Caneyes representa una 
+réplica arquitectónica de las viviendas taínas precolombinas
+, específicamente del tipo "caney" (bohío indígena cubano) 
+.
+Características tipológicas:
+Estructura de Cabañas Circulares:
+ 
+9 complejos de cabañas con 6 habitaciones cada uno 
+Forma circular que evoca los bohíos taínos 
+Techos de 
+guano
+ (paja de palma) tradicional 
+Materiales Constructivos:
+Estructura principal de
+ mampostería imitación
+ 
+madera
+ 
+Paredes en tonos terracota, turquesa y colores tierra 
+Techos de paja/guano que simulan la arquitectura aborigen 
+Diseño Exterior:
+Cabañas independientes de una y dos plantas 
+Integración total con el paisaje natural circundante 
+🎨
+ IDENTIDAD VISUAL
+Elementos Característicos:
+1. Paleta Cromática:
+Tonos tierra:
+ Terracota, ocre, beige en paredes 
+Tonos tropicales:
+ Turquesa, verde agua en algunas cabañas
+Madera natural:
+ En estructuras, barandas y mobiliario
+Techos oscuros:
+ Guano/paja en tonos marrones grisáceos
+2. Elementos 
+Identitarios
+:
+Letrero de entrada:
+ Base de piedra con estatua de indígena taíno y nombre del hotel en colores azul y terracota
+Cercas rústicas:
+ De troncos naturales en senderos
+Senderos hexagonales:
+ Baldosas con patrón geométrico
+Iluminación:
+ Farolas tradicionales en jardines
+3. Paisajismo:
+Vegetación exuberante:
+ Eucaliptos, cocoteros, palmeras reales, helechos 
+Jardines tropicales:
+ Plantas florales y vegetación nativa
+Canales secos:
+ Que atraviesan la propiedad simulando elementos naturales 
+Áreas verdes:
+ Amplios jardines que conectan las cabañas
+🏨
+ INSTALACIONES Y SERVICIOS
+Habitaciones (96 total):
+93 habitaciones estándar
+ (10 intercomunicadas)
+2 suites
+1 junior suite
+1 habitación adaptada para personas con discapacidad
+ 
+Características de las cabañas:
+Superficie:
+ 90 m²
+Capacidad:
+ Hasta 4 huéspedes
+Camas:
+ 2 camas dobles (135x190 cm) o 
+twin
+Vistas:
+ Jardín
+Climatización:
+ Aire acondicionado
+Baño:
+ Privado con agua fría y caliente
+Tecnología:
+ TV satelital, teléfono, radio
+Comodidades:
+ 
+Minibar
+, caja fuerte, secador de pelo, tabla de planchar 
+Áreas Comunes:
+Gastronómicas:
+Restaurante buffet con comida tradicional cubana
+Bar en la piscina
+Grill/
+parillada
+Recreativas:
+Piscina al aire libre con palapas de guano
+Discoteca
+Animación diurna y nocturna
+Espectáculos en vivo
+Servicios Generales:
+Recepción 24 horas
+Wi
+-Fi 
+Cambio de moneda
+Caja de seguridad
+Estacionamiento seguro
+Servicio médico
+Maletero/
+bell
+ staff
+Personal multilingüe
+Accesibilidad para sillas de ruedas 
+🌿
+ CONCEPTO DE DISEÑO
+Filosofía Arquitectónica:
+El hotel fue concebido por iniciativa del 
+Comandante Fidel Castro Ruz
+ en 1966, con el objetivo de crear una instalación hotelera que:
+No fuera fría ni monótona
+Rindiera homenaje a las raíces cubanas profundas
+Recreara la vida de los antiguos habitantes de Cuba
+Se 
+integrara
+ al paisaje natural 
+Principios de Diseño:
+Mimetismo con la Naturaleza:
+Las cabañas se distribuyen entre la vegetación
+Uso de materiales naturales
+Colores que se armonizan con el entorno
+Cultura Taína:
+Réplica de viviendas aborígenes
+Elementos decorativos que evocan la cultura precolombina
+Nombre "Los Caneyes" derivado del tipo de construcción
+Confort Moderno:
+Interior moderno y confortable a pesar del diseño rústico exterior
+Todas las comodidades de un hotel 3 estrellas
+Climatización y tecnología actualizada 
+🎯
+ POSICIONAMIENTO DE MARCA
+Público Objetivo:
+Familias que buscan contacto con la naturaleza
+Turistas interesados en cultura cubana auténtica
+Viajeros que valoran la tranquilidad y el entorno natural
+Visitantes que desean explorar Santa Clara y sus alrededores 
+Propuesta de Valor:
+Único
+ en su tipo por su arquitectura taína
+Naturaleza + Ciudad:
+ Entorno rural a 1 km del centro urbano
+Cultura viva:
+ Espacio de exhibición artística local
+Tradición cubana:
+ Autenticidad en diseño y servicio 
+www.cmhw.icrt.cu
+📍
+ UBICACIÓN ESTRATÉGICA
+Distancias de referencia:
+La Habana: 276 km
+Aeropuerto Santa Clara: 15 km
+Cayo Santa María: 100 km
+Mausoleo Che Guevara: 2 km
+Topes de 
+Collantes
+: 70 km
+Hanabanilla
+: 50 km 
+cubatravelsclub.com
+Atractivos cercanos:
+Plaza de la Revolución "Ernesto Che Guevara"
+Ciudad de Remedios (colonial)
+Playas de la 
+Cayería
+ Norte de Villa Clara
+Macizo montañoso del 
+Escambray
+ 
+www.cuba.travel
+🎪
+ IDENTIDAD CULTURAL
+El hotel Los Caneyes constituye 
+más que una instalación hotelera
+: es un espacio cultural que:
+Celebra 60 años de historia (1966-2026) 
+Promueve la cultura local a través de la Sala 
+Guajuma
+Forma jóvenes
+ trabajadores del turismo
+Mantiene vivas las tradiciones cubanas
+Representa un "hogar" para los viajeros 
+💡
+ ELEMENTOS DIFERENCIADORES
+Arquitectura única
+ en Cuba inspirada en bohíos taínos
+Integración total
+ con la naturaleza tropical
+Techo de guano
+ tradicional en todas las cabañas
+Distribución en complejos
+ que crean sensación de aldea
+Historia
+ como proyecto personal de Fidel Castro
+Ubicación privilegiada
+ entre naturaleza y ciudad
+60 años
+ de tradición y servicio (2026)
+El Hotel Los Caneyes representa un 
+ejemplo paradigmático
+ de cómo la arquitectura hotelera puede rendir homenaje a las raíces culturales mientras ofrece confort moderno, posicionándose como un referente del turismo de naturaleza y cultura en el centro de Cuba.
+Estructura de 
+pagina
+ web:
+📁
+ los-caneyes/
+   
+├
+──
+ index.html         
+←
+ Inicio
+   
+├
+──
+ 
+habitaciones.html  
+←
+ Habitaciones
+   
+├
+──
+ restaurante.html   
+←
+ Restaurante
+   
+├
+──
+ spa.html           
+←
+ Spa
+   
+├
+──
+ contacto.html      ← Contacto
+   
+├
+──
+ eventos.html       
+←
+ Eventos y Bodas
+   
+├
+──
+ nosotros.html      
+←
+ Sobre Nosotros
+   
+├
+──
+ galeria.html       
+←
+ Galer
+í
+a Virtual (
+lightbox
+)
+   
+├
+──
+ blog.html          
+←
+ Blog 
+🆕
+   
+├
+──
+ blog-post.html     
+←
+ Art
+í
+culo Individual 
+🆕
+   
+├
+──
+ estilos.css        
+←
+ Estilos + 
+lightbox
+   └── script.js          ← JavaScript + 
+lightbox
