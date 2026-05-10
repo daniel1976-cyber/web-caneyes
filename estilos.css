@@ -49,25 +49,21 @@
         .logo {
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 15px;
             text-decoration: none;
         }
-        .logo-icon {
-            width: 42px; height: 42px;
-            background: var(--color-accent);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-size: 18px;
+        .logo-img {
+            height: 50px;
+            width: auto;
+            object-fit: contain;
+            transition: var(--transition);
         }
         .logo-text {
             font-family: var(--font-serif);
-            font-size: 28px;
-            font-weight: 600;
+            font-size: 26px;
+            font-weight: 700;
             color: white;
-            letter-spacing: 1px;
+            letter-spacing: 0.5px;
             transition: var(--transition);
         }
         .nav {
@@ -133,7 +129,7 @@
         .btn-primary:hover {
             background: var(--color-accent-light);
             transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(201, 169, 110, 0.3);
+            box-shadow: 0 8px 25px rgba(211, 84, 0, 0.3);
         }
         .btn-outline {
             background: transparent;
@@ -163,20 +159,20 @@
         .hero-bg {
             position: absolute;
             inset: 0;
-            background: linear-gradient(135deg, #0B3D4C 0%, #1a5f6e 50%, #0B3D4C 100%);
+            background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-accent) 100%);
         }
         .hero-bg::before {
             content: '';
             position: absolute;
             inset: 0;
-            background: url('https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1920&q=80') center/cover;
-            opacity: 0.4;
+            background: url('https://images.unsplash.com/photo-1542332213-9b5a5a3fab35?w=1920&q=80') center/cover;
+            opacity: 0.5;
         }
         .hero-bg::after {
             content: '';
             position: absolute;
             inset: 0;
-            background: linear-gradient(to bottom, rgba(11,61,76,0.3) 0%, rgba(11,61,76,0.6) 100%);
+            background: linear-gradient(to bottom, rgba(27, 54, 93, 0.4) 0%, rgba(211, 84, 0, 0.4) 100%);
         }
         .hero-content {
             position: relative;
@@ -388,7 +384,7 @@
         .room-overlay {
             position: absolute;
             inset: 0;
-            background: linear-gradient(to top, rgba(11,61,76,0.95) 0%, transparent 60%);
+            background: linear-gradient(to top, rgba(27,54,93,0.95) 0%, transparent 60%);
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
@@ -396,7 +392,7 @@
             transition: var(--transition);
         }
         .room-card:hover .room-overlay {
-            background: linear-gradient(to top, rgba(11,61,76,0.98) 0%, rgba(11,61,76,0.4) 100%);
+            background: linear-gradient(to top, rgba(27,54,93,0.98) 0%, rgba(27,54,93,0.4) 100%);
         }
         .room-category {
             font-size: 12px;
@@ -470,7 +466,7 @@
         }
         .amenity-icon {
             width: 70px; height: 70px;
-            background: rgba(201, 169, 110, 0.15);
+            background: rgba(211, 84, 0, 0.1);
             border-radius: 50%;
             display: flex;
             align-items: center;
@@ -524,7 +520,7 @@
         .gallery-overlay {
             position: absolute;
             inset: 0;
-            background: rgba(11,61,76,0.7);
+            background: rgba(27,54,93,0.7);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -698,7 +694,7 @@
         .offer-overlay {
             position: absolute;
             inset: 0;
-            background: linear-gradient(to top, rgba(11,61,76,0.95) 0%, transparent 50%);
+            background: linear-gradient(to top, rgba(27,54,93,0.95) 0%, transparent 50%);
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
