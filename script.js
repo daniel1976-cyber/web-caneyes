@@ -21,7 +21,18 @@ window.addEventListener('scroll', () => {
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function(e) {
                 e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
+                const targetId = this.getAttribute('href');
+                
+                // Si es el botón de reservar, mostramos/ocultamos el widget
+                if (targetId === '#reservar') {
+                    const widget = document.getElementById('reservar');
+                    if (widget) {
+                        widget.classList.toggle('active');
+                    }
+                    return;
+                }
+                
+                const target = document.querySelector(targetId);
                 if (target) {
                     target.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 }
