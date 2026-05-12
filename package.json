@@ -1,0 +1,24 @@
+{
+  "name": "web-caneyes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optimizar_imagenes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel1976-cyber/web-caneyes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Daniel1976-cyber/web-caneyes/issues"
+  },
+  "homepage": "https://github.com/Daniel1976-cyber/web-caneyes#readme",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}
