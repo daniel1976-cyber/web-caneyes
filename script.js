@@ -39,6 +39,18 @@ window.addEventListener('scroll', () => {
             });
         });
 
+        // Cerrar el widget de reserva si se hace clic fuera de él
+        document.addEventListener('click', (e) => {
+            const widget = document.getElementById('reservar');
+            const btnReservar = document.querySelector('a[href="#reservar"]');
+            
+            if (widget && widget.classList.contains('active')) {
+                if (!widget.contains(e.target) && (!btnReservar || !btnReservar.contains(e.target))) {
+                    widget.classList.remove('active');
+                }
+            }
+        });
+
 // ===== LIGHTBOX =====
 let currentLightboxIndex = 0;
 let lightboxImages = [];
