@@ -49,6 +49,33 @@
             <h1 class="hero-title" style="font-size: clamp(36px, 6vw, 64px);">Eventos y <span>Bodas</span></h1>
             <p class="hero-desc">El escenario perfecto para celebrar el amor, la empresa y la vida. Donde cada detalle se convierte en un recuerdo eterno.</p>
         </div>
+    
+        <div class="booking-widget" id="reservar">
+            <div class="booking-field">
+                <label class="booking-label">Llegada</label>
+                <input type="date" class="booking-input" value="2026-06-15">
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Salida</label>
+                <input type="date" class="booking-input" value="2026-06-20">
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Huespedes</label>
+                <select class="booking-input">
+                    <option>2 Adultos, 0 Ninos</option>
+                    <option>1 Adulto</option>
+                    <option>2 Adultos, 1 Nino</option>
+                    <option>2 Adultos, 2 Ninos</option>
+                </select>
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Codigo Promocional</label>
+                <input type="text" class="booking-input" placeholder="Opcional">
+            </div>
+            <button class="btn btn-primary booking-btn">
+                <i class="fas fa-search"></i> Buscar
+            </button>
+        </div>
     </section>
 
     <section class="section welcome">
@@ -379,6 +406,7 @@
     <script src="js/script.js"></script>
 </body>
 </html>
+
 
 
 

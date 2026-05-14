@@ -32,7 +32,7 @@
                     <span>ES</span>
                     <i class="fas fa-chevron-down" style="font-size:10px;"></i>
                 </div>
-                <a href="#" class="btn btn-primary">Reservar Ahora</a>
+                <a href="#reservar" class="btn btn-primary">Reservar Ahora</a>
                 <div class="mobile-toggle" id="mobileToggle">
                     <i class="fas fa-bars"></i>
                 </div>
@@ -48,6 +48,33 @@
             <p class="hero-subtitle">Estamos para Usted</p>
             <h1 class="hero-title" style="font-size: clamp(36px, 6vw, 64px);">Contacto <span>Los Caneyes</span></h1>
             <p class="hero-desc">Nuestro equipo está listo para atender sus consultas desde el corazón de Santa Clara.</p>
+        </div>
+    
+        <div class="booking-widget" id="reservar">
+            <div class="booking-field">
+                <label class="booking-label">Llegada</label>
+                <input type="date" class="booking-input" value="2026-06-15">
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Salida</label>
+                <input type="date" class="booking-input" value="2026-06-20">
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Huespedes</label>
+                <select class="booking-input">
+                    <option>2 Adultos, 0 Ninos</option>
+                    <option>1 Adulto</option>
+                    <option>2 Adultos, 1 Nino</option>
+                    <option>2 Adultos, 2 Ninos</option>
+                </select>
+            </div>
+            <div class="booking-field">
+                <label class="booking-label">Codigo Promocional</label>
+                <input type="text" class="booking-input" placeholder="Opcional">
+            </div>
+            <button class="btn btn-primary booking-btn">
+                <i class="fas fa-search"></i> Buscar
+            </button>
         </div>
     </section>
 
@@ -275,6 +302,7 @@
     <script src="js/script.js"></script>
 </body>
 </html>
+
 
 
 

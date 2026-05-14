@@ -42,10 +42,10 @@ window.addEventListener('scroll', () => {
         // Cerrar el widget de reserva si se hace clic fuera de él
         document.addEventListener('click', (e) => {
             const widget = document.getElementById('reservar');
-            const btnReservar = document.querySelector('a[href="#reservar"]');
+            const isBtnReservar = e.target.closest('a[href="#reservar"]');
             
             if (widget && widget.classList.contains('active')) {
-                if (!widget.contains(e.target) && (!btnReservar || !btnReservar.contains(e.target))) {
+                if (!widget.contains(e.target) && !isBtnReservar) {
                     widget.classList.remove('active');
                 }
             }
